@@ -1,0 +1,3769 @@
+WEBVTT
+
+1 "Sana Amir" (2088217088)
+00:00:05.215 --> 00:00:12.929
+Okay, good morning. Everyone Thank you for joining us today. Um.
+
+2 "Sana Amir" (2088217088)
+00:00:12.929 --> 00:00:17.639
+Unfortunately, due to the adverse weather conditions, um.
+
+3 "Sana Amir" (2088217088)
+00:00:17.639 --> 00:00:21.120
+We are going to have an online class.
+
+4 "Sana Amir" (2088217088)
+00:00:21.120 --> 00:00:29.370
+I'm just going to wait for 2 more minutes for students to join us. Okay. I hope the.
+
+5 "Sana Amir" (2088217088)
+00:00:29.370 --> 00:00:39.240
+Uh, message I sent via Moodle reached all the students and, uh, thank you so much for joining us for those of you. Especially who came in a bit early, even.
+
+6 "Sana Amir" (2088217088)
+00:00:39.240 --> 00:00:43.680
+Um, I'm glad to see that we have, uh.
+
+7 "Sana Amir" (2088217088)
+00:00:43.680 --> 00:00:46.770
+A lot of students joining us for the class today.
+
+8 "Sana Amir" (2088217088)
+00:00:46.770 --> 00:01:07.560
+So, um, 1, good thing is that all of you have seen me before if you remember in the beginning of the semester, although, um, Dr took the 1st, 5 weeks, but I took the very 1st lecture with you guys with your section because, um.
+
+9 "Sana Amir" (2088217088)
+00:01:07.560 --> 00:01:12.480
+Doctor Omar had some I had a couple of meetings to attend.
+
+10 "Sana Amir" (2088217088)
+00:01:12.480 --> 00:01:16.710
+And that day, so I had taken your 1st class.
+
+11 "Sana Amir" (2088217088)
+00:01:16.710 --> 00:01:23.460
+And we had gone over some very basic, uh, introductory material related to.
+
+12 "Sana Amir" (2088217088)
+00:01:23.460 --> 00:01:43.460
+Um, this course for those of you, who haven't seen me before, or I didn't attend the 1st lecture. Um, hopefully next week on Monday, you will see me in person. I personally prefer online, um, face to face classes, but.
+
+13 "Sana Amir" (2088217088)
+00:01:43.460 --> 00:02:03.650
+Unfortunately, as I said before that you to the weather, we didn't have any option so let's try to make the best of our situation and I'm going to be giving you a break in the middle of the lecture. So, that you go, you guys can go have coffee water, whatever you want, but otherwise please try to stay with me this.
+
+14 "Sana Amir" (2088217088)
+00:02:03.650 --> 00:02:08.700
+Topic that we are going to cover today is extremely important.
+
+15 "Sana Amir" (2088217088)
+00:02:08.700 --> 00:02:18.150
+Not to be taken on seriously, because we are actually going to be covering a lot of material today.
+
+16 "Sana Amir" (2088217088)
+00:02:18.150 --> 00:02:24.090
+And, um, yeah, okay, I think I should just start now.
+
+17 "Sana Amir" (2088217088)
+00:02:24.090 --> 00:02:29.640
+So, let me share my screen. Okay.
+
+18 "Sana Amir" (2088217088)
+00:02:41.640 --> 00:02:50.891
+All right so can everyone see the screen? Yeah, yes. That's good.
+
+19 "Sana Amir" (2088217088)
+00:02:50.891 --> 00:03:09.410
+Yes. Okay. Okay. Perfect. So I'm going to start now this is, um, chapter 6 of your engineering mechanics books. Um, so, uh, I know that the book that we have suggested to you, that is also available in the library is a compilation of 2 books. Um, so there is a.
+
+20 "Sana Amir" (2088217088)
+00:03:09.410 --> 00:03:30.140
+But the 2nd, half of it is by Hitler engineering mechanics, and this is chapter 6 called structure analysis. Okay. Um, I'm hoping that by now, you have a very good idea what internal forces are, can anyone go ahead? And tell me what are internal forces, you've studied them in beams when you cut a section.
+
+21 "Sana Amir" (2088217088)
+00:03:30.140 --> 00:03:46.890
+Are you in the beginning also I know that we've done problems in which you've been making free boy diagrams. So, every time you cut a cable, there's an internal force, right? So, can anyone go and they give me some example of, for what kind of internal forces we can have.
+
+22 "Sana Amir" (2088217088)
+00:03:58.955 --> 00:04:03.000
+Yes, uh, column, you have raised a hand.
+
+23 "Sana Amir" (2088217088)
+00:04:03.000 --> 00:04:09.870
+Pending moments yes, yes. Yes. Very good. So we can have internal forces.
+
+24 "Sana Amir" (2088217088)
+00:04:09.870 --> 00:04:16.770
+In structures, I'll give you an example of the beam because this is what, um, you guys have covered until now.
+
+25 "Sana Amir" (2088217088)
+00:04:16.770 --> 00:04:30.089
+So, let's say, um, okay, so, let's say we have a beam. Okay this is a simply supported beam. We have a pin support on 1 side and a roller support on the other side pen support.
+
+26 "Sana Amir" (2088217088)
+00:04:30.089 --> 00:04:38.729
+This 1, sometimes it's also known as a hint support and let's say here is your beam and you have some uniformly distributed load.
+
+27 "Sana Amir" (2088217088)
+00:04:38.729 --> 00:04:49.079
+Okay, you can have uniformly distributed load. You have you can have point Lord, you can have a variable load, any kind of load you know, a couple moment could be applied, but.
+
+28 "Sana Amir" (2088217088)
+00:04:49.079 --> 00:05:00.029
+Okay, so if you cut a section here, and you draw the free body diagram of whether this side or the side left hand side of the section on the right hand side of the section.
+
+29 "Sana Amir" (2088217088)
+00:05:00.029 --> 00:05:11.489
+Either way you will have, you will see internal forces so this is basically your section. So the type of internal forces that can be, there are a sheer force and a bending moment.
+
+30 "Sana Amir" (2088217088)
+00:05:11.489 --> 00:05:31.489
+This is common and beam shear forces Benning moment. In some cases, if you also have a load that is inclined, meaning that you have horizontal component, vertical components. So because of this horizontal component, you may have a normal force as well. But normal forces are not very common in beams. Okay. So these are the internal forces, the right hand side of.
+
+31 "Sana Amir" (2088217088)
+00:05:31.489 --> 00:05:36.179
+Section will have the exact same forces, but just in the opposite.
+
+32 "Sana Amir" (2088217088)
+00:05:36.179 --> 00:05:56.179
+Direction all. Right. Um, similarly, we have you have done other problems in which, uh, let's say, you have a surface and there is a block and there is a, you know, let's say, a pulley and then, you know, you have some sort of a bit here. So, if you cut, let's say this, this cable here, so you can show.
+
+33 "Sana Amir" (2088217088)
+00:05:56.179 --> 00:06:14.249
+Uh, you know, in this cable, you can show this sort of an internal force. You can cut this here. So if you draw the diagram the way, it will be acting downwards and this cable will be replaced by internal force, which is that in Salesforce. Okay, so, depending on the type of the.
+
+34 "Sana Amir" (2088217088)
+00:06:14.249 --> 00:06:34.249
+Object you have when you cut you, when you draw it's free, wide diagram, you cut a section, and we want to cut a section because we want to know what is going on, inside see, every time you have a structural element, or any object, anybody you apply load on it so far.
+
+35 "Sana Amir" (2088217088)
+00:06:34.249 --> 00:06:41.759
+Safely bearing that load, uh, that body should develop some internal forces to resist that.
+
+36 "Sana Amir" (2088217088)
+00:06:41.759 --> 00:06:54.869
+Okay, if let's say, you apply this load here on this beam and these forces are do not develop. Okay, these forces are unable to develop. So what will happen the B will fail.
+
+37 "Sana Amir" (2088217088)
+00:06:54.869 --> 00:07:09.959
+Okay, it will not be able to carry that load. I can give you a simple example that, for example, when we give you an example, you're going to have your midterm exam. So, when we give you an exam, uh, what do you do you prepare for it, right?
+
+38 "Sana Amir" (2088217088)
+00:07:09.959 --> 00:07:18.869
+You prepare for it if you are preparation. So I just imagine this is your preparation. This is your strength. These are the forces that you develop inside.
+
+39 "Sana Amir" (2088217088)
+00:07:18.869 --> 00:07:34.829
+So, if you do, if you are unable to prepare for the exam, you're going to fill that exam, or you will end up with, uh, not a very good grade right? So you can imagine this, that, in terms of structure elements, when we apply the Lord.
+
+40 "Sana Amir" (2088217088)
+00:07:34.829 --> 00:07:51.659
+For equilibrium, okay. For these forces to be safely transferred for and for equilibrium, you should develop a share some internal forces in case of a beam. It can be shared for spending moment or sometimes axial forces. Okay.
+
+41 "Sana Amir" (2088217088)
+00:07:51.659 --> 00:08:13.309
+So, today, what we are going to do is that you've done internal forces and enter analysis of beams, you drawn shear forces, Benjamin diagrams and everything. Today we are going to start our structure analysis of internal forces on another very important.
+
+42 "Sana Amir" (2088217088)
+00:08:13.309 --> 00:08:19.919
+Type of structure known as a trust. Okay so a trust is, um.
+
+43 "Sana Amir" (2088217088)
+00:08:19.919 --> 00:08:31.229
+Uh, a very common form that we used in our buildings and in our bridges. Um, if I want to show you, let's say a trust.
+
+44 "Sana Amir" (2088217088)
+00:08:31.229 --> 00:08:44.969
+Okay, plus images let's go okay here. So this is, for example, a bridge. Okay, so you can see that.
+
+45 "Sana Amir" (2088217088)
+00:08:44.969 --> 00:08:58.109
+So this is a bridge, and you can see that there is these triangulated elements. So what our trusses trusses consist of triangulated elements. So our trust is.
+
+46 "Sana Amir" (2088217088)
+00:08:58.109 --> 00:09:02.309
+Is going to be, I mean, it can have so many shapes.
+
+47 "Sana Amir" (2088217088)
+00:09:02.309 --> 00:09:08.369
+Trust can have, like, uh, so many shapes, different types.
+
+48 "Sana Amir" (2088217088)
+00:09:08.369 --> 00:09:17.549
+Okay, but generally speaking, I mean, this is not a very good example that I gave you. Sorry it doesn't look very symmetrical, but anyway, so, um.
+
+49 "Sana Amir" (2088217088)
+00:09:17.549 --> 00:09:32.219
+The, the trust is going to look like a set of triangles joined together and all these members. So, this is 1 member of a trust that I'm highlighting. This is another member of a trust and this is another member of a trust.
+
+50 "Sana Amir" (2088217088)
+00:09:32.219 --> 00:09:36.179
+A simpler trust a simplest trust.
+
+51 "Sana Amir" (2088217088)
+00:09:36.179 --> 00:09:42.539
+Will be a single triangle. Okay so this is also, this is the simplest form of a trust.
+
+52 "Sana Amir" (2088217088)
+00:09:42.539 --> 00:09:50.219
+Okay, and then we can add supports, of course, the trust has to rest somewhere. You can add, uh.
+
+53 "Sana Amir" (2088217088)
+00:09:50.219 --> 00:09:54.689
+That's a simple support on a trust so.
+
+54 "Sana Amir" (2088217088)
+00:09:54.689 --> 00:10:05.999
+What is the trust? A trust is a, is a structure that is composed of triangulate members. Okay. Um, 1, member of a trust is a single member.
+
+55 "Sana Amir" (2088217088)
+00:10:05.999 --> 00:10:11.159
+So, the simplest form of a trust will have at least 3 members.
+
+56 "Sana Amir" (2088217088)
+00:10:11.159 --> 00:10:31.159
+You need to have at least 3 members, these members are joined together at these joints. So these intersection points that I'm highlighting are known as joins, and these joints are been connected. The type of the connection is a pin connection. What is a pin connection?
+
+57 "Sana Amir" (2088217088)
+00:10:31.159 --> 00:10:51.159
+How, you know, the property of a pain support right? What's up in support? Pin support has a vertical reaction reaction a horizontal reaction meaning that a pin support can restraint vertical movement and horizontal movement. It does not allow displacement in the vertical and.
+
+58 "Sana Amir" (2088217088)
+00:10:51.159 --> 00:10:57.929
+Horizontal direction. However, it is free to rotate. So, for example, if we have a beam.
+
+59 "Sana Amir" (2088217088)
+00:10:57.929 --> 00:11:12.449
+Okay, if we have a beam and let's say a point load, how is this beam going to bend this being will battle in this way right? So there is going to be deflections at every point.
+
+60 "Sana Amir" (2088217088)
+00:11:12.449 --> 00:11:17.489
+Every point this beam is going to bend at every point, except at the support.
+
+61 "Sana Amir" (2088217088)
+00:11:17.489 --> 00:11:23.939
+Okay, at the support there is no vertical deflection. There is no horizontal. Deflection. However.
+
+62 "Sana Amir" (2088217088)
+00:11:23.939 --> 00:11:27.809
+Then is rotation. Okay.
+
+63 "Sana Amir" (2088217088)
+00:11:27.809 --> 00:11:36.059
+Let me give you a common example of a pin support have you seen, or wherever you were sitting you are sitting in a room right? There is a door there.
+
+64 "Sana Amir" (2088217088)
+00:11:36.059 --> 00:11:40.199
+Right there is a door.
+
+65 "Sana Amir" (2088217088)
+00:11:40.199 --> 00:11:51.629
+So, the support of the door, the hinges that connect the door to your wall. That's a hint support. So, what does what does that do? Let's say this is your door.
+
+66 "Sana Amir" (2088217088)
+00:11:51.629 --> 00:12:11.629
+There is this handle and you can see that there is these, these, the, this is, let's say the wall. Okay, this is your wall and you can see that the door is connected to the wall by these hinges on the side. Now, when you open the door, the door swings, it swings.
+
+67 "Sana Amir" (2088217088)
+00:12:11.629 --> 00:12:25.019
+Right it is able to swing, but you cannot move the door in the vertical direction or the horizontal direction. It cannot move horizontally and it cannot move vertically.
+
+68 "Sana Amir" (2088217088)
+00:12:25.019 --> 00:12:33.449
+Agreed, but you are able to take the door, you are able to open it. So that means these supports here.
+
+69 "Sana Amir" (2088217088)
+00:12:33.449 --> 00:12:48.179
+These are type of pin supports and supports will allow rotation. So it allows you to rotate the door outwards or inwards. But what it cannot allow is vertical or the horizontal movements.
+
+70 "Sana Amir" (2088217088)
+00:12:48.179 --> 00:12:52.529
+Okay um, so.
+
+71 "Sana Amir" (2088217088)
+00:12:52.529 --> 00:13:01.079
+Uh, trust, trust connection is, uh, is the same thing. So, what does a trust do a trust is.
+
+72 "Sana Amir" (2088217088)
+00:13:01.079 --> 00:13:05.429
+Made up of a simple triangle. This is simplest form of address.
+
+73 "Sana Amir" (2088217088)
+00:13:05.429 --> 00:13:10.109
+Okay, and these joints are pin connected of the members.
+
+74 "Sana Amir" (2088217088)
+00:13:10.109 --> 00:13:30.109
+These are pins, so they do not allow, uh, I mean, they are free to rotate. Okay the joint itself can move. If the, uh, if you apply a load here, the joint can move in the horizontal and vertical, uh, direction. Okay. Um, the joint, but the members are pin connected. Okay.
+
+75 "Sana Amir" (2088217088)
+00:13:30.109 --> 00:13:36.869
+So, if you apply a moment, this trust will not be able to support it and it will put it. All right.
+
+76 "Sana Amir" (2088217088)
+00:13:36.869 --> 00:13:45.599
+Okay, going back, uh, we were looking at some photos, so you see these how these members this is.
+
+77 "Sana Amir" (2088217088)
+00:13:45.599 --> 00:13:56.549
+A triangle triangle so this is a big truss is a huge trust. It's provided on either side of a bridge. Let me maybe this is a better if you can see.
+
+78 "Sana Amir" (2088217088)
+00:13:56.549 --> 00:13:59.759
+Here this is a, uh, this is a bridge.
+
+79 "Sana Amir" (2088217088)
+00:13:59.759 --> 00:14:19.759
+The deck of the bridge, or the slab of the bridge. So this is a direction in which the traffic or pedestrians can pass and these triangulated members on this side on the front side and the back side these are process. Okay. And trusses can basically have so many different types of shapes. They can be curved from the.
+
+80 "Sana Amir" (2088217088)
+00:14:19.759 --> 00:14:29.129
+Top, they can be flat on the top, but what they should always have is a set of triangles is these are triangular trusses joint together.
+
+81 "Sana Amir" (2088217088)
+00:14:29.129 --> 00:14:32.369
+Dresses are also used in industrial roofs.
+
+82 "Sana Amir" (2088217088)
+00:14:32.369 --> 00:14:41.939
+Of buildings, um, let me see if we have. So, for example, this is this is not industrial roof. It's more like a residential structure, but in the roofs.
+
+83 "Sana Amir" (2088217088)
+00:14:41.939 --> 00:14:47.549
+That's in industrial roof, let's say.
+
+84 "Sana Amir" (2088217088)
+00:14:47.549 --> 00:14:55.139
+So, for example, this is an industrial group, so you can see these how the processes are supporting.
+
+85 "Sana Amir" (2088217088)
+00:14:55.139 --> 00:15:06.869
+Okay, so trusses just like beans or girders beams are, uh, the general name of this structure is called a beam but when the beams are very large.
+
+86 "Sana Amir" (2088217088)
+00:15:06.869 --> 00:15:12.869
+Huge in size they are known as girders, small beans and known as joists. Okay.
+
+87 "Sana Amir" (2088217088)
+00:15:16.409 --> 00:15:21.869
+So, large beams are known as good or small beams and known as choice. So.
+
+88 "Sana Amir" (2088217088)
+00:15:21.869 --> 00:15:29.969
+You can have, you can have beams here and then we can also have trusses here. Now. What's the difference between the 2? The way.
+
+89 "Sana Amir" (2088217088)
+00:15:29.969 --> 00:15:35.699
+These structures beams or trusses, they support the load. That is different.
+
+90 "Sana Amir" (2088217088)
+00:15:35.699 --> 00:15:47.489
+So, when you apply load on beans, what happens is that they develop any moments and share forces. So they bend and they share to resist the applied loads. But what about classes for trusses?
+
+91 "Sana Amir" (2088217088)
+00:15:47.489 --> 00:15:50.609
+It's how are ya.
+
+92 "Sana Amir" (2088217088)
+00:15:50.609 --> 00:15:56.579
+Well, it is uploaded on model. Let me let me check.
+
+93 "Sana Amir" (2088217088)
+00:15:56.579 --> 00:16:02.249
+The lecture is there? No, it's not there.
+
+94 "Sana Amir" (2088217088)
+00:16:06.989 --> 00:16:13.349
+Okay, I will, I will upload it now. Sorry about that. I was I thought that maybe all the lectures are there.
+
+95 "Sana Amir" (2088217088)
+00:16:13.349 --> 00:16:36.079
+Sorry about that I'm going to.
+
+96 "Sana Amir" (2088217088)
+00:16:36.079 --> 00:16:42.689
+Um, also, uh, just so that, you know, because, uh, I'm also sharing my screen.
+
+97 "Sana Amir" (2088217088)
+00:16:42.689 --> 00:16:48.959
+Get rid of the lecture item. Quiz.
+
+98 "Sana Amir" (2088217088)
+00:16:48.959 --> 00:16:53.729
+Tokyo is lab.
+
+99 "Sana Amir" (2088217088)
+00:16:56.789 --> 00:17:16.439
+Mm, hmm.
+
+100 "Sana Amir" (2088217088)
+00:17:29.579 --> 00:17:37.319
+Okay, you should, um.
+
+101 "Sana Amir" (2088217088)
+00:17:37.319 --> 00:17:40.439
+Just a 2nd.
+
+102 "Sana Amir" (2088217088)
+00:17:51.569 --> 00:17:55.439
+Sorry, this is slap sessions.
+
+103 "Sana Amir" (2088217088)
+00:18:32.789 --> 00:18:52.789
+Okay.
+
+104 "Sana Amir" (2088217088)
+00:19:12.789 --> 00:19:32.159
+Yes, I will, um.
+
+105 "Sana Amir" (2088217088)
+00:19:32.159 --> 00:19:36.329
+Share the recording, but.
+
+106 "Sana Amir" (2088217088)
+00:19:36.329 --> 00:19:40.169
+I can't promise sometimes recordings don't work. So.
+
+107 "Sana Amir" (2088217088)
+00:19:40.169 --> 00:19:44.459
+They can be sound issues or something so.
+
+108 "Sana Amir" (2088217088)
+00:19:44.459 --> 00:19:49.349
+Sometimes recordings are not the best, so please.
+
+109 "Sana Amir" (2088217088)
+00:19:49.349 --> 00:19:55.469
+Attend the lecture also. Okay. Um, okay, so.
+
+110 "Sana Amir" (2088217088)
+00:19:55.469 --> 00:20:00.119
+Can everyone see.
+
+111 "Sana Amir" (2088217088)
+00:20:20.119 --> 00:20:23.969
+Okay, so I have, uh, added.
+
+112 "Sana Amir" (2088217088)
+00:20:23.969 --> 00:20:28.739
+And, um, can everyone see it now?
+
+113 "Sana Amir" (2088217088)
+00:20:37.406 --> 00:20:44.447
+It's there in week, 6, you should be able to see it week. 6 dresses.
+
+114 "Yamile Romero" (2016431616)
+00:20:44.447 --> 00:20:47.405
+Yeah, yeah, it's there, it's uploaded.
+
+115 "Sana Amir" (2088217088)
+00:20:47.405 --> 00:20:52.559
+Yeah, it's it should be there week. 6. okay.
+
+116 "Sana Amir" (2088217088)
+00:20:52.559 --> 00:21:15.499
+Yeah, and the other thing is that please, I can't see the chat box, so if you want to say something, please open your mic and actually say it. Okay. Because I just noticed by chance that I checked the chat by chance and saw that, you know, the lecture is not uploaded. So, anyway, we have, we didn't really start the lecture. So that's the good thing. I'm.
+
+117 "Sana Amir" (2088217088)
+00:21:15.499 --> 00:21:25.529
+Want to share the screen again. Okay. So we, we still haven't really started the lecture, but just saying that please, um.
+
+118 "Sana Amir" (2088217088)
+00:21:25.529 --> 00:21:29.789
+It's, uh, now in dresses, so.
+
+119 "Sana Amir" (2088217088)
+00:21:29.789 --> 00:21:36.179
+Yeah, okay.
+
+120 "Sana Amir" (2088217088)
+00:21:36.179 --> 00:21:42.809
+So, if, uh, for example, weeks, next week, 4, what does it have? Tutorial and lecture.
+
+121 "Sana Amir" (2088217088)
+00:21:48.119 --> 00:21:52.589
+Okay, um, let's get back to our lecture so I was saying that.
+
+122 "Sana Amir" (2088217088)
+00:21:52.589 --> 00:22:03.899
+I was showing you the trusses in that industrial roof so we use dresses in, uh, in buildings we use dresses and bridges and the difference between.
+
+123 "Sana Amir" (2088217088)
+00:22:03.899 --> 00:22:17.129
+Uh, can we use girders? Uh, I see when I'm saying, uh, girl, I, I'm rather than saying beans. I'm using the word girders, because in the roofs in industrial roofs and if you have bridges.
+
+124 "Sana Amir" (2088217088)
+00:22:17.129 --> 00:22:37.129
+Um, the we use very large size beams sometimes. Okay. Uh, actually, most of the time so we use very large beams. So when we are going to make a comparison, I'm you, I'm gonna use the technical name for a large beam. It is known as a girder. Okay, so bridges can have very large girders and roof.
+
+125 "Sana Amir" (2088217088)
+00:22:37.129 --> 00:22:44.999
+Also have very large girders and those girders may be, uh, the roof system may have beams also.
+
+126 "Sana Amir" (2088217088)
+00:22:44.999 --> 00:23:02.399
+Okay, so now normally, when we have any kind of a system, so what happens is that you can have these small beams running from left to right? And those beans are resting on huge girders on the sites like this. Okay. So, it's just depending on the load bearing capacity.
+
+127 "Sana Amir" (2088217088)
+00:23:02.399 --> 00:23:12.149
+And the size, uh, large group beams are not as good as. So when I'm making a comparison with the addresses, I, I will use the word goddess instead of just saying, beams.
+
+128 "Sana Amir" (2088217088)
+00:23:12.149 --> 00:23:15.539
+Okay, so beams have.
+
+129 "Sana Amir" (2088217088)
+00:23:15.539 --> 00:23:35.539
+Shear forces and bending moments that's how there is a supplied load stresses on the other hands have axial forces. Only okay trusses do not have bending moments that do not have shares because remember the joints have been connected. I've been connections you do not have moments. Okay. Moments are 0, you know, that you've drawn bedroom.
+
+130 "Sana Amir" (2088217088)
+00:23:35.539 --> 00:23:43.439
+Terms of beams and whenever there was, um, a pen or a roller support, you always had 0 moments. Right?
+
+131 "Sana Amir" (2088217088)
+00:23:43.439 --> 00:23:53.309
+Uh, at the exterior support, so, uh, trust us, because they are pin connected joints uh, they are free to rotate and they are pin connected join. So that's why.
+
+132 "Sana Amir" (2088217088)
+00:23:53.309 --> 00:24:13.309
+These stresses, um, resist the applied forces by developing only the agile forces. We do not have any women and shear forces. Trust is not capable of developing these kind of forces. Okay. So, um, in this chapter, we are.
+
+133 "Sana Amir" (2088217088)
+00:24:13.309 --> 00:24:29.549
+Topic we are going to discuss what a simple trusses there are 2 analysis methods. There's a matter of joints and matter of sections that we will discuss. And then we will go for, uh, you know, we will also have a discussion. What is a 0 force member.
+
+134 "Sana Amir" (2088217088)
+00:24:29.549 --> 00:24:49.549
+Okay, okay so what is a simple trust? I trust that is composed of slender members joined together at their end points is known as a simple trust. Okay. Um, slender means that the length is very.
+
+135 "Sana Amir" (2088217088)
+00:24:49.549 --> 00:25:09.549
+Charge and the cross sections are small. So, let's say you can have an ice section. You can have a C section, and I suppose that you have, um, gone through these steel sections in your lab classes. They have explained to you when you were designing about Sabine, what is an.
+
+136 "Sana Amir" (2088217088)
+00:25:09.549 --> 00:25:29.549
+And what is the challenge section? So, these sections, you know, for example, this member could be actually look like a member like this it could be an ice section. So the cross section is very small, and the lengths are very large. Okay. So, that makes the section slender small cross section very large lengths.
+
+137 "Sana Amir" (2088217088)
+00:25:29.549 --> 00:25:42.179
+So, a trust is composed of several slender members that are joined together by their end points. There are some conditions that are attached to that conditions are 1st of all the joints.
+
+138 "Sana Amir" (2088217088)
+00:25:42.179 --> 00:25:45.929
+For example, here we have, this is a joint. Okay.
+
+139 "Sana Amir" (2088217088)
+00:25:45.929 --> 00:25:49.109
+Like this 1, so this is a joint.
+
+140 "Sana Amir" (2088217088)
+00:25:49.109 --> 00:25:59.009
+Yeah, and this is a joint and this is a joint and this is a joint so these joints are been connected. Okay. Um.
+
+141 "Sana Amir" (2088217088)
+00:25:59.009 --> 00:26:19.009
+Loads are not directly applied to the trust members themselves. Rather laws are applied on the roof systems. Okay. Or the, if they are bridges, the loads are applied to the bridge deck or the slab of the bridge over, which what is a slab of a bridge or the Deb bridge deck. It's, uh, when you are passing on bridges, like, you.
+
+142 "Sana Amir" (2088217088)
+00:26:19.009 --> 00:26:30.599
+Driving on, so that part that pavement is the slab or the bridges that classes are on the side they are supporting so you're not directly. So, this is basically your, you know, let's say this is your card.
+
+143 "Sana Amir" (2088217088)
+00:26:30.599 --> 00:26:46.139
+I'm going to make, uh, I don't like drawing on the, uh, the laptop screen. My drawing is not that bad, but it looks very bad here. So this is basically the slab. So, your tree is actually on the sides.
+
+144 "Sana Amir" (2088217088)
+00:26:46.139 --> 00:26:53.549
+Yeah, so the, so it's not directly loading the trust itself. Similarly when we have, um.
+
+145 "Sana Amir" (2088217088)
+00:26:53.549 --> 00:27:04.589
+Roofs, I'm going to zoom in. If you look here. If you look here, we have this trust and see, this is the roof system right? The slab.
+
+146 "Sana Amir" (2088217088)
+00:27:04.589 --> 00:27:08.669
+Saw the sheet that you can see can you see.
+
+147 "Sana Amir" (2088217088)
+00:27:08.669 --> 00:27:13.319
+If you notice that, uh, the truss is not.
+
+148 "Sana Amir" (2088217088)
+00:27:13.319 --> 00:27:17.099
+Directly connected to the roof system. Can you see that?
+
+149 "Sana Amir" (2088217088)
+00:27:17.099 --> 00:27:23.009
+Okay, can you see this joined here?
+
+150 "Sana Amir" (2088217088)
+00:27:23.009 --> 00:27:33.929
+There is a gap right between the roof and this is the trust. This is a member. This is a member. This is a member. You can see that. There is a gap here.
+
+151 "Sana Amir" (2088217088)
+00:27:33.929 --> 00:27:53.489
+What is happening? What's happening? Is that if when we have a trust, let's say I'm going to make try and make a simple trust. Okay, so this is your trust. Okay. And let's see, it's simply supported. These are just columns simple supported trust. So, in trust.
+
+152 "Sana Amir" (2088217088)
+00:27:53.489 --> 00:27:58.949
+This is 1 trust to the front of the roof and let's say this is the back to us. Okay.
+
+153 "Sana Amir" (2088217088)
+00:27:58.949 --> 00:28:02.999
+This is a bad address. Same trust, but at the back.
+
+154 "Sana Amir" (2088217088)
+00:28:02.999 --> 00:28:15.389
+So, in a trust, when we apply the roof system, like the roof sheet, we don't directly put it on the trust. Rather you're going to be putting small beams here.
+
+155 "Sana Amir" (2088217088)
+00:28:15.389 --> 00:28:22.259
+Small beams. Okay. So the ends of the beams.
+
+156 "Sana Amir" (2088217088)
+00:28:22.259 --> 00:28:33.299
+So this is a beam they are going to be resting here. This is the other. This is the same beam. So it's good. Goes here. This is the beam. This is the beam and this is the.
+
+157 "Sana Amir" (2088217088)
+00:28:33.299 --> 00:28:42.419
+Yeah, this is a top thing here. Okay so we have these beams that are resting on the joints of the trust and on top of this.
+
+158 "Sana Amir" (2088217088)
+00:28:42.419 --> 00:28:51.449
+Then we put our roof system. Okay. This is our roof system on top of this. Okay. I don't know how clearly, you can see this over here.
+
+159 "Sana Amir" (2088217088)
+00:28:51.449 --> 00:29:03.719
+But if you notice that this is the triangle, triangulated member is the trust you see these members, these horizontal members going from 1, the front of the trust to the back.
+
+160 "Sana Amir" (2088217088)
+00:29:03.719 --> 00:29:19.109
+These lines, these are actually beams. Okay. And the roof system. This is a slot or the sheet it is on top. So, what happens is that when loads are transferred, if I look in that into the only.
+
+161 "Sana Amir" (2088217088)
+00:29:19.109 --> 00:29:22.919
+Yes, so this is my trust and.
+
+162 "Sana Amir" (2088217088)
+00:29:22.919 --> 00:29:30.659
+So this is okay, so this is the roof sheet. Okay. I'm just drawing it in 2. D now.
+
+163 "Sana Amir" (2088217088)
+00:29:30.659 --> 00:29:37.619
+So, when loads are transferred, they are transferred as point loads.
+
+164 "Sana Amir" (2088217088)
+00:29:37.619 --> 00:29:46.079
+So, you're going to be applying the loads here so these Lords, they go 1st from the roof to the beam.
+
+165 "Sana Amir" (2088217088)
+00:29:46.079 --> 00:29:52.979
+And then from the beams, okay it, uh, they will go to these joints.
+
+166 "Sana Amir" (2088217088)
+00:29:52.979 --> 00:30:02.099
+Okay, they will go to the joints and they will be applied as point loads on the trust. The point I'm trying to make is that in a trust.
+
+167 "Sana Amir" (2088217088)
+00:30:07.169 --> 00:30:10.739
+In a trust, you will always have.
+
+168 "Sana Amir" (2088217088)
+00:30:10.739 --> 00:30:14.309
+Point loads acting add the joints.
+
+169 "Sana Amir" (2088217088)
+00:30:14.309 --> 00:30:20.189
+Okay, we never have any loads 1st of all acting on the member length.
+
+170 "Sana Amir" (2088217088)
+00:30:20.189 --> 00:30:32.789
+We never have, or we never have distributed. Lord. Never. Okay because if you have distributed Lord, this member is going to bend like this. So when the Lord is acting only at the joint.
+
+171 "Sana Amir" (2088217088)
+00:30:32.789 --> 00:30:43.619
+Lord is actually acting only at the join, how does it get distributed in the trust only through axial action like, forces.
+
+172 "Sana Amir" (2088217088)
+00:30:43.619 --> 00:30:50.279
+That's why we don't have any wouldn't share force. I will explain again. See when you have a beam.
+
+173 "Sana Amir" (2088217088)
+00:30:50.279 --> 00:30:53.639
+Loads are acting directly.
+
+174 "Sana Amir" (2088217088)
+00:30:53.639 --> 00:31:01.049
+On the beam length throughout the lent directly loads are connected. That's why you have bending.
+
+175 "Sana Amir" (2088217088)
+00:31:01.049 --> 00:31:08.069
+The beam is going to bend under this load, why the trust members don't bend why this member doesn't bend.
+
+176 "Sana Amir" (2088217088)
+00:31:08.069 --> 00:31:17.729
+Why this doesn't band because we have no loads here. This is not a possibility. Trusses are constructed in such a way that we do not have bending moments.
+
+177 "Sana Amir" (2088217088)
+00:31:17.729 --> 00:31:22.349
+Does everyone get this point or not? This is very important.
+
+178 "Sana Amir" (2088217088)
+00:31:22.349 --> 00:31:34.859
+All right, the reason beams have bending is because loads are acting directly, but here loads the slabs.
+
+179 "Sana Amir" (2088217088)
+00:31:34.859 --> 00:31:39.089
+The Lord from the slab, or the roof goes to the beams.
+
+180 "Sana Amir" (2088217088)
+00:31:39.089 --> 00:31:45.089
+Beams are only resting on the joints so which is why you will never have.
+
+181 "Sana Amir" (2088217088)
+00:31:45.089 --> 00:31:52.379
+Uh, bending moments or shear forces in that. Trusses. Okay, these laws acts at as point loads.
+
+182 "Sana Amir" (2088217088)
+00:31:52.379 --> 00:32:12.379
+The only access point loads and then if the lows are acting only as point loads and only at the joints, how do they get resisted? Well, they only get resisted by developing agile forces. Now, what is an agile force? An agile force would be that. I'm going to do a simple trust, and, as I said, you're only going to have loads at the.
+
+183 "Sana Amir" (2088217088)
+00:32:12.379 --> 00:32:18.239
+Joins okay, so if I look at this member.
+
+184 "Sana Amir" (2088217088)
+00:32:18.239 --> 00:32:29.549
+All this member, or this member, they will all have an axial force. For example, this member, the force will be in this way like, in the direction.
+
+185 "Sana Amir" (2088217088)
+00:32:29.549 --> 00:32:39.209
+In the member, it can be tension and compression. We will see a little bit later on um, can anyone tell me what is.
+
+186 "Sana Amir" (2088217088)
+00:32:39.209 --> 00:32:42.479
+What types of axial forces are there?
+
+187 "Sana Amir" (2088217088)
+00:32:42.479 --> 00:32:56.729
+We have 2 types of agile forces. You can have a compressive force or a tensile force. Now what is a compressor force? A compressive force is like, if this is your member.
+
+188 "Sana Amir" (2088217088)
+00:32:56.729 --> 00:33:01.229
+A compressive force will try to compress a member.
+
+189 "Sana Amir" (2088217088)
+00:33:01.229 --> 00:33:08.969
+So this is compression, then force will try to elongate or increase the length of the member.
+
+190 "Sana Amir" (2088217088)
+00:33:08.969 --> 00:33:17.279
+Okay, so compress a force will try to compress it. And tensile force will try to elongate.
+
+191 "Sana Amir" (2088217088)
+00:33:17.279 --> 00:33:21.419
+Member okay so.
+
+192 "Sana Amir" (2088217088)
+00:33:21.419 --> 00:33:27.239
+Coming back to the lecture, what are the trust is used to do so I trust is used to support.
+
+193 "Sana Amir" (2088217088)
+00:33:27.239 --> 00:33:35.789
+Loads in roofs and in bridges roof lot is transmitted to the trust at the joints. Only only add these joints.
+
+194 "Sana Amir" (2088217088)
+00:33:35.789 --> 00:33:44.789
+Only at the joints you have, if you see the member okay, the member has a gap. So there we have a gap here.
+
+195 "Sana Amir" (2088217088)
+00:33:44.789 --> 00:34:04.789
+Okay, the roof is not connected to the member length is only connected at these joints. Okay. So, uh, the roof goes to the roof load goes to the trust joins through these, these beams these beams are known as balance. Okay. The ice sections, as I mentioned.
+
+196 "Sana Amir" (2088217088)
+00:34:04.789 --> 00:34:08.759
+Could be channel section that are resting on your trust.
+
+197 "Sana Amir" (2088217088)
+00:34:08.759 --> 00:34:15.689
+Okay, that arresting at these joints are known as violence.
+
+198 "Sana Amir" (2088217088)
+00:34:15.689 --> 00:34:23.519
+Um, let's see if we have a nice drawing here.
+
+199 "Sana Amir" (2088217088)
+00:34:23.519 --> 00:34:44.959
+Uh, this is a good join. Maybe we can take a look at.
+
+200 "Sana Amir" (2088217088)
+00:34:44.959 --> 00:35:03.209
+Is okay, the structural system? Okay. Yes this is a very now. This is, let's say, a group system. This is a structure. Okay. Where are the trusses? See this triangle big triangle and this triangle and this triangle and this triangle so there are 4 processes.
+
+201 "Sana Amir" (2088217088)
+00:35:03.209 --> 00:35:06.689
+In this structure. Okay, these are the choices here.
+
+202 "Sana Amir" (2088217088)
+00:35:06.689 --> 00:35:11.429
+All right, then you can see these horizontal members.
+
+203 "Sana Amir" (2088217088)
+00:35:11.429 --> 00:35:18.299
+These are the beams. Okay these are the beams and know they are known as the.
+
+204 "Sana Amir" (2088217088)
+00:35:18.299 --> 00:35:29.819
+Okay, and the trucks are these are resting on columns. These are the columns columns columns that they are. The trustees are resting on the, on these columns.
+
+205 "Sana Amir" (2088217088)
+00:35:29.819 --> 00:35:43.139
+All right, so purlins or the beams go from 1 tries to the other from 1 trust with the other. And this is your roof system. The room system is not resting on the presses directly. It is resting on these beams known as trust. Berlin.
+
+206 "Sana Amir" (2088217088)
+00:35:43.139 --> 00:35:47.609
+Violence arrested on the joints only of the process.
+
+207 "Sana Amir" (2088217088)
+00:35:47.609 --> 00:35:57.659
+Okay, they haven't shown the trust members here, because I think the drawing becomes super confusing. So they have not they have just shown 1 big triangle. This triangle.
+
+208 "Sana Amir" (2088217088)
+00:35:57.659 --> 00:36:17.659
+1, big triangle than this triangle is triangle, but these are basically the trusses here and these beams, the horizontal beams that are going from 1 joint to another joint of a trust roof system is connected on the joints, or it's a uniformly distributed load. That is resting on your beams, the beams because they are resting only at the columns at a point.
+
+209 "Sana Amir" (2088217088)
+00:36:17.659 --> 00:36:25.349
+To load, like a concentrated load so that's why will only have agile forces so so like, this.
+
+210 "Sana Amir" (2088217088)
+00:36:25.349 --> 00:36:35.189
+Um, the analysis of the force is developing that trust members is 2 D. we are not going to be looking at.
+
+211 "Sana Amir" (2088217088)
+00:36:35.189 --> 00:36:38.519
+And, um.
+
+212 "Sana Amir" (2088217088)
+00:36:43.079 --> 00:36:52.679
+And similar to a roof, trust the bridge. Russ loading is also Co plainer. So, in the roof dresses, the Lord, because, uh, your slabs are here.
+
+213 "Sana Amir" (2088217088)
+00:36:52.679 --> 00:37:02.279
+Okay on the top so your top members, these members at the top are known as top card member. This is the code of a trust.
+
+214 "Sana Amir" (2088217088)
+00:37:02.279 --> 00:37:09.779
+Okay, and in the branches because your, um, if you look at again, some.
+
+215 "Sana Amir" (2088217088)
+00:37:09.779 --> 00:37:13.589
+A, let's look at a bridge dress.
+
+216 "Sana Amir" (2088217088)
+00:37:17.909 --> 00:37:22.019
+Yeah, so in the bridges because traffic passes here, right?
+
+217 "Sana Amir" (2088217088)
+00:37:22.019 --> 00:37:27.839
+It is, it is here so the loads are applied at the bottom. Not at the top.
+
+218 "Sana Amir" (2088217088)
+00:37:27.839 --> 00:37:31.979
+Yes, so that this this is the difference between when we have.
+
+219 "Sana Amir" (2088217088)
+00:37:31.979 --> 00:37:39.629
+A bridge or a roof. Okay. So loads are applied at the top because you, your bridge platform is like this this is the.
+
+220 "Sana Amir" (2088217088)
+00:37:39.629 --> 00:37:51.929
+You know, the previous, the backdrops. Okay. So the traffic is going here. So this load is transfer to the joints at the bottom. The bottom members are known as bottom gods.
+
+221 "Sana Amir" (2088217088)
+00:37:51.929 --> 00:37:56.249
+The top members are known as this is bottom court.
+
+222 "Sana Amir" (2088217088)
+00:37:56.249 --> 00:38:06.929
+When a bridge trust, the joints of the bottom cord are loaded and for the roof trusses, the joints of the top cards are loaded. These are known as web members.
+
+223 "Sana Amir" (2088217088)
+00:38:06.929 --> 00:38:13.830
+Web members, this is the top card. This is the bottom caught web members are in client members.
+
+224 "Sana Amir" (2088217088)
+00:38:13.830 --> 00:38:18.810
+Some of the assumptions now, we are going to make some assumptions here.
+
+225 "Sana Amir" (2088217088)
+00:38:18.810 --> 00:38:25.740
+Number 1, as I explained all loadings are applied at the joints. Now, this is an assumption, but.
+
+226 "Sana Amir" (2088217088)
+00:38:25.740 --> 00:38:30.000
+We also, uh, see, we do not make assumptions blindly.
+
+227 "Sana Amir" (2088217088)
+00:38:30.000 --> 00:38:50.000
+When we design a trust, we try our best that loadings are really applied at the joints and not on the members which means that when we design the roof trust, we make sure the beans or the purlins are only at the joints. They connect joint to joint, and when we have a bridge trusses, we make sure that the deck of.
+
+228 "Sana Amir" (2088217088)
+00:38:50.000 --> 00:39:08.100
+Bridge on, which the traffic is passing or pedestrians are walking. That slab is connected only to the joints. Okay. So that's why only loads are applied at the joints. We don't want the trust member. We don't want the length of this member to to have a load. If it will have a load, it is going to bend.
+
+229 "Sana Amir" (2088217088)
+00:39:08.100 --> 00:39:27.780
+And then the, uh, the, because the way the trust is designed is agile forces, only it will not be able to develop or it's not designed to carry any moments. Okay. Moments are shares. So that's the 1st assumption, but it's a very valid assumption. Because trusses are designed to make sure the load is are applied at the joints.
+
+230 "Sana Amir" (2088217088)
+00:39:27.780 --> 00:39:40.230
+Okay, cell phones we neglect, sell fate of the member is neglected. It's assume that is very small compared to the lowest that are applied on the process. The 2nd assumptions is the members is joined.
+
+231 "Sana Amir" (2088217088)
+00:39:40.230 --> 00:40:00.230
+At, um, at a pin connection and those pins are smooth. Okay. So these are the trust members. 4 members as you can see and they are joined together at 1, common point. And this joint is apparently a pin connection. And again, this is an assumption in reality. If you have a.
+
+232 "Sana Amir" (2088217088)
+00:40:00.230 --> 00:40:10.470
+A little bit of friction in the joints. You may have some rigidity in the joints. I'm fixing it in the joints. We assume these are smooth pins. They are free to repeat.
+
+233 "Sana Amir" (2088217088)
+00:40:10.470 --> 00:40:16.830
+So, the 1st assumption is, all loadings are applied at the joint. The 2nd assumption is, the members are joined together.
+
+234 "Sana Amir" (2088217088)
+00:40:16.830 --> 00:40:33.150
+By smooth pins, so assume connections provided the center lines of the joining members are concurrent concurrent. What's the concurrent 4 system when all the forces you see these vectors? These are forced factors they are passing through 1 common point. This is a point.
+
+235 "Sana Amir" (2088217088)
+00:40:33.150 --> 00:40:39.840
+Here this is a point, the line of action is all of them is interacting at 1 common point.
+
+236 "Sana Amir" (2088217088)
+00:40:39.840 --> 00:40:46.020
+Okay, so what happens when all the forces passed through 1 common point.
+
+237 "Sana Amir" (2088217088)
+00:40:46.020 --> 00:40:57.210
+Can anyone tell me what happens when all the forces are passing through a common point?
+
+238 "Sana Amir" (2088217088)
+00:40:57.210 --> 00:41:03.006
+What is the significance of this.
+
+239 "karam" (2281669376)
+00:41:03.006 --> 00:41:06.748
+Uh, the 1st will be.
+
+240 "Sana Amir" (2088217088)
+00:41:06.748 --> 00:41:18.488
+Concentrated in a single point at the center point. Yes. And will there be any moments.
+
+241 "Sana Amir" (2088217088)
+00:41:18.488 --> 00:41:22.770
+No, they cannot be a moment. Okay.
+
+242 "Sana Amir" (2088217088)
+00:41:22.770 --> 00:41:26.430
+See, if you have again, I will draw a trust.
+
+243 "Sana Amir" (2088217088)
+00:41:30.480 --> 00:41:38.700
+So these are the trust members. Okay these are the trust members. So, member forces are inside.
+
+244 "Sana Amir" (2088217088)
+00:41:38.700 --> 00:41:42.030
+Like this okay, where the tension or compression.
+
+245 "Sana Amir" (2088217088)
+00:41:42.030 --> 00:41:46.350
+Let's take a look at this joint and now this joint.
+
+246 "Sana Amir" (2088217088)
+00:41:46.350 --> 00:42:00.090
+When all the forces, I'm just assuming some members have tension some have compression when they all meet at 1 common point there is no moment.
+
+247 "Sana Amir" (2088217088)
+00:42:00.090 --> 00:42:06.900
+If let's say they, uh, this is your trust joint. Okay but there is 1 member.
+
+248 "Sana Amir" (2088217088)
+00:42:06.900 --> 00:42:16.410
+This is a joint. Okay. Like this, let's say 1 member is member forces like this. Then what happens.
+
+249 "Sana Amir" (2088217088)
+00:42:16.410 --> 00:42:21.480
+You have a distance, so there will be rotation. There is going to be a moment correct?
+
+250 "Sana Amir" (2088217088)
+00:42:21.480 --> 00:42:27.390
+So, when you when d0, what is the moment moment is f, times D.
+
+251 "Sana Amir" (2088217088)
+00:42:27.390 --> 00:42:33.840
+When d0 all the members are passing through 1 common point there is no moment. Please remember this.
+
+252 "Sana Amir" (2088217088)
+00:42:33.840 --> 00:42:45.870
+Okay, for a moment to happen, there must be a distance from the point of rotation. So this is a common point and all the member forces are passing through it meaning there is not going to be any moment. All right.
+
+253 "Sana Amir" (2088217088)
+00:42:45.870 --> 00:42:57.750
+Another thing is that trusses are not directly connected. Trust members are not mostly they're not directly connected to each other.
+
+254 "Sana Amir" (2088217088)
+00:42:57.750 --> 00:43:00.870
+Okay, like, um.
+
+255 "Sana Amir" (2088217088)
+00:43:00.870 --> 00:43:04.290
+So, to you.
+
+256 "Sana Amir" (2088217088)
+00:43:04.290 --> 00:43:10.050
+Steve draws, let's say.
+
+257 "Sana Amir" (2088217088)
+00:43:14.760 --> 00:43:18.750
+Connection let's look at a joint.
+
+258 "Sana Amir" (2088217088)
+00:43:18.750 --> 00:43:24.300
+Give me a figure yes, this 1, for example.
+
+259 "Sana Amir" (2088217088)
+00:43:24.300 --> 00:43:35.520
+So this is a trust so, this is 1 member. This is another mammal. So see this plate here, the 1 that is circled like that is, uh, the boundary shown like a.
+
+260 "Sana Amir" (2088217088)
+00:43:35.520 --> 00:43:43.830
+In green, or displayed here see this figure. So this is a trust member and then this is another member. This is another member. See this plate here.
+
+261 "Sana Amir" (2088217088)
+00:43:43.830 --> 00:43:58.080
+So members sometimes, because they are like, channel section, a C section or angles like L section, actually the section. So it's not always possible to connect them together directly. So, mostly.
+
+262 "Sana Amir" (2088217088)
+00:43:58.080 --> 00:44:01.920
+What we do is that, let's say, I have to design this joint.
+
+263 "Sana Amir" (2088217088)
+00:44:01.920 --> 00:44:16.470
+Like, this joint, so members cannot sum directly because imagine that they consist they are like, C sections like this okay. Or their eyes sections how can they be connected to each other? So, what happens is that we have a plate here.
+
+264 "Sana Amir" (2088217088)
+00:44:16.470 --> 00:44:23.010
+Our members are connected to the plate and so you, you're going to you're going to have a plate like this.
+
+265 "Sana Amir" (2088217088)
+00:44:23.010 --> 00:44:27.210
+And the members are connected to the plate.
+
+266 "Sana Amir" (2088217088)
+00:44:27.210 --> 00:44:42.690
+Okay, because it's not possible to like, this 1, this, this plate that you see here. So member, this is a member. This is a member. This is a member. This is a member. They cannot be directly connected to each other here. They are directly connected.
+
+267 "Sana Amir" (2088217088)
+00:44:42.690 --> 00:45:02.690
+They go until they are like, sort of overlapping each other, because these are simple secular members you can well them together. But here, these are complex sections. So, they are connected in such a way that the line of action of forces is concurrent and passes through a common point. But the members are connected to a plate this plate.
+
+268 "Sana Amir" (2088217088)
+00:45:02.690 --> 00:45:10.680
+Is known as a gusset plate so let's Google. What a plate is. Oh, I wrote the wrong spellings.
+
+269 "Sana Amir" (2088217088)
+00:45:10.680 --> 00:45:21.540
+So this is a gossip plate. Okay see, this is trust my members. They're not connected directly. Rather they all connect. They are bolted.
+
+270 "Sana Amir" (2088217088)
+00:45:21.540 --> 00:45:30.780
+By bowls, or you can also do welding, they can be bolted. So, this is also a bold. These are bolts here. So they are connected by 2 these plates.
+
+271 "Sana Amir" (2088217088)
+00:45:30.780 --> 00:45:38.550
+This place are known as gusset plates so this is a plate here. This is trust member, trust, member, trust, member, trust member here also.
+
+272 "Sana Amir" (2088217088)
+00:45:38.550 --> 00:45:42.930
+This service is a plate here these plates are known as.
+
+273 "Sana Amir" (2088217088)
+00:45:42.930 --> 00:45:51.270
+Gossip plates. Okay. Most of the time you will not be connecting trusses directly to each other. Rather they will be connected to a plate.
+
+274 "Sana Amir" (2088217088)
+00:45:51.270 --> 00:46:01.200
+Okay, but they are connected in such a way that if you extend the line of action of the forces, the line of action passes through 1 common point.
+
+275 "Sana Amir" (2088217088)
+00:46:01.200 --> 00:46:05.970
+So you have this common point here this 1.
+
+276 "Sana Amir" (2088217088)
+00:46:05.970 --> 00:46:12.480
+All right okay now each member in a trust is a 2 force member.
+
+277 "Sana Amir" (2088217088)
+00:46:12.480 --> 00:46:34.610
+2 for summer, so there is 1 axial force. Okay but, you know, on each side on the left side and the right side, you will have equal and opposite. Right? So we can say it's a 2 force member. The magnitude of this force is of course equal. The end forces must be equal in magnitude and opposite in direction and style force will be acting.
+
+278 "Sana Amir" (2088217088)
+00:46:34.610 --> 00:46:38.490
+Away from the member and a compressive force will be acting.
+
+279 "Sana Amir" (2088217088)
+00:46:38.490 --> 00:46:50.670
+Towards the member, when loaded, the member is either intention or compression. So because we have only agile forces either we are going to have tension or we are going to have.
+
+280 "Sana Amir" (2088217088)
+00:46:50.670 --> 00:46:57.630
+Compression right?
+
+281 "Sana Amir" (2088217088)
+00:46:57.630 --> 00:47:04.770
+So, simple trust, form of a trust must be rigid to prevent collapse.
+
+282 "Sana Amir" (2088217088)
+00:47:04.770 --> 00:47:12.870
+So meaning it should be stable enough. The most stable structural form is a triangle. So, this is.
+
+283 "Sana Amir" (2088217088)
+00:47:12.870 --> 00:47:21.780
+The simplest form is square or a rectangle not a stable form. It is, but the minimum number of members you need.
+
+284 "Sana Amir" (2088217088)
+00:47:21.780 --> 00:47:31.650
+Are 3 and 3 members can only make a triangle so simplest form that is rigid. Stable is a triangle. If you have 2 members, this is not a stable.
+
+285 "Sana Amir" (2088217088)
+00:47:31.650 --> 00:47:37.770
+Okay, this is not stable to make it stable. You do need a 3rd member here.
+
+286 "Sana Amir" (2088217088)
+00:47:37.770 --> 00:47:41.460
+The simplest form is a triangle.
+
+287 "Sana Amir" (2088217088)
+00:47:41.460 --> 00:47:50.922
+Now, we are going to start the method of joints before we start method of joints. Do you have any questions for me?
+
+288 "karam" (2281669376)
+00:47:53.940 --> 00:47:57.540
+Um, yes, please ask a question. Uh, um, like.
+
+289 "karam" (2281669376)
+00:47:57.540 --> 00:48:02.441
+Well, we said, like, trust bridges are always in triangles. Is there any specific reason for this? Like.
+
+290 "Sana Amir" (2088217088)
+00:48:02.441 --> 00:48:11.130
+Why it's not like, Square or something because we are, um, it's very easy to extend triangulated members.
+
+291 "Sana Amir" (2088217088)
+00:48:11.130 --> 00:48:14.730
+Okay, so trusses are triangles.
+
+292 "Sana Amir" (2088217088)
+00:48:14.730 --> 00:48:20.970
+So, uh, even if your trust me itself, be a rectangle.
+
+293 "Sana Amir" (2088217088)
+00:48:28.200 --> 00:48:32.730
+So, trusses are classic triangles. Now you can say.
+
+294 "Sana Amir" (2088217088)
+00:48:32.730 --> 00:48:40.622
+Can we not have rectangles? Actually, we can, but this structural form is not called a trust. It is known as a frame.
+
+295 "Sana Amir" (2088217088)
+00:48:41.902 --> 00:48:51.330
+Oh, all right. All right. And also for this, we prefer having for this form.
+
+296 "Sana Amir" (2088217088)
+00:48:51.330 --> 00:48:56.989
+Is structurally this is, um, this is more stable. This is more.
+
+297 "karam" (2281669376)
+00:48:56.989 --> 00:48:58.591
+Budget.
+
+298 "Sana Amir" (2088217088)
+00:48:58.591 --> 00:49:09.960
+I see that. So, if you have if you can imagine, uh, at this moment, you know, in edge 1 or 2, this, you are year 1 students. So, at this moment, I cannot.
+
+299 "Sana Amir" (2088217088)
+00:49:09.960 --> 00:49:15.030
+Go into more detail, but imagine you have a rectangle or a square.
+
+300 "Sana Amir" (2088217088)
+00:49:15.030 --> 00:49:21.600
+And then compared to that, you have another structure, but this this time we have.
+
+301 "Sana Amir" (2088217088)
+00:49:21.600 --> 00:49:31.588
+If I add another member here, then adding this 1 member is going to improve the structural stability of this rectangle or.
+
+302 "karam" (2281669376)
+00:49:31.588 --> 00:49:32.970
+Where.
+
+303 "Sana Amir" (2088217088)
+00:49:32.970 --> 00:49:48.161
+Oh, yeah, I can yeah, you can you can imagine this, although maybe mathematics you don't you may not know the mechanics behind it, but you can imagine or you can it makes sense. Logically you can see what.
+
+304 "karam" (2281669376)
+00:49:48.161 --> 00:49:50.464
+By this structure would be more.
+
+305 "Sana Amir" (2088217088)
+00:49:50.464 --> 00:49:55.997
+Stable more stable, even more stable to improve even more rigidity.
+
+306 "karam" (2281669376)
+00:49:55.997 --> 00:49:59.056
+Add another divided into more triangles.
+
+307 "Sana Amir" (2088217088)
+00:49:59.056 --> 00:50:03.720
+So the more triangles we have the more stable so this says this is yes, so this is.
+
+308 "Sana Amir" (2088217088)
+00:50:03.720 --> 00:50:16.020
+Yes, but eh, but just so that, you know, keep on there comes a point we can keep on making into smaller and smaller triangles but 1st of all from construction point of view, this is not very helpful.
+
+309 "Sana Amir" (2088217088)
+00:50:16.020 --> 00:50:22.140
+Okay, because now we are looking at too many members being connected at a joined. It becomes harder. The joint becomes.
+
+310 "Sana Amir" (2088217088)
+00:50:22.140 --> 00:50:26.220
+The more members you have, the more complex the construction becomes.
+
+311 "Sana Amir" (2088217088)
+00:50:26.220 --> 00:50:34.020
+Okay, it becomes harder to construct the joint or to detail the joint. That's 1 thing. 2nd thing is at 1 at some point, this becomes.
+
+312 "karam" (2281669376)
+00:50:34.020 --> 00:50:34.720
+Like.
+
+313 "Sana Amir" (2088217088)
+00:50:34.720 --> 00:50:40.440
+Unnecessary. Okay. Oh, so, yeah, it doesn't make a difference.
+
+314 "Sana Amir" (2088217088)
+00:50:40.440 --> 00:50:45.939
+Doesn't make, you know, actually, it, it becomes, it makes a structure more in determining, you.
+
+315 "karam" (2281669376)
+00:50:45.939 --> 00:50:46.557
+Have too many.
+
+316 "Sana Amir" (2088217088)
+00:50:46.557 --> 00:50:55.260
+Unknowns see all these members have forces, right? Yes. How many equilibrium equations you have you have 3.
+
+317 "Sana Amir" (2088217088)
+00:50:55.260 --> 00:51:00.660
+It's just like, I, I, I'll give you an example, look at this beam.
+
+318 "Sana Amir" (2088217088)
+00:51:00.660 --> 00:51:04.597
+Yeah, well I can add more and more supports right? I can keep on.
+
+319 "karam" (2281669376)
+00:51:04.597 --> 00:51:09.141
+More supports, and what is going to happen you are just adding more and more.
+
+320 "Sana Amir" (2088217088)
+00:51:09.141 --> 00:51:27.000
+Reactions exactly. Yes. And then this structure becomes more and more and determinants ammonia. It's harder to analyze it and it's heart becomes for the same. See, there are some cases if these lens are very long, you may need additional support because you don't want too much bending.
+
+321 "Sana Amir" (2088217088)
+00:51:27.000 --> 00:51:30.120
+Okay, okay so I'm going to make 2 beams here.
+
+322 "Sana Amir" (2088217088)
+00:51:30.120 --> 00:51:41.370
+Long beams, so I, I'll discuss with advantages and disadvantages. So for example, this is the case it bends like this.
+
+323 "Sana Amir" (2088217088)
+00:51:41.370 --> 00:51:46.140
+Now, if I add another support, what will happen, the bending will reduce.
+
+324 "Sana Amir" (2088217088)
+00:51:46.140 --> 00:51:51.630
+So, the support support, additional support, had his advantages.
+
+325 "Sana Amir" (2088217088)
+00:51:51.630 --> 00:51:59.970
+Right. We reduced the bending, but imagine if I add more supports even more supports.
+
+326 "Sana Amir" (2088217088)
+00:51:59.970 --> 00:52:12.690
+Okay, so now this, the advantage there is not much you're gaining by adding more and more support. What you are doing is you just increasing the costs of costs of providing more and more supports.
+
+327 "Sana Amir" (2088217088)
+00:52:12.690 --> 00:52:21.090
+So the plus points that you, the pros are less, and the cons at some point, the cons start becoming more and more.
+
+328 "Sana Amir" (2088217088)
+00:52:21.090 --> 00:52:27.960
+Okay, so this a triangle, a triangle is a very stable structure.
+
+329 "Sana Amir" (2088217088)
+00:52:27.960 --> 00:52:31.260
+Compared to a rectangle or a frame.
+
+330 "Sana Amir" (2088217088)
+00:52:31.260 --> 00:52:37.410
+Okay, so it's more the loads are distributed in a more, uh, let's say.
+
+331 "Sana Amir" (2088217088)
+00:52:37.410 --> 00:52:50.280
+Equal way, and if I add a more 1 member yes, we will improve the stability. If I add another member, we will improve. It's even more stable. But then.
+
+332 "Sana Amir" (2088217088)
+00:52:50.280 --> 00:53:00.240
+They at this joint, you have 4 unknown forces, you have only 3 equations of equilibrium and, uh, even in those equations of equilibrium, we have.
+
+333 "Sana Amir" (2088217088)
+00:53:00.240 --> 00:53:09.510
+Save my effects signify and 1 is the moment and at this joint, you know, that the moment equation is useless anyways because moment 0.
+
+334 "Sana Amir" (2088217088)
+00:53:09.510 --> 00:53:29.510
+Right. So you only can find out at a joint 2 unknown forces. So this becomes more and more users adding more unknown forces to your structure. And the pros are not much so 2 members that's fine. But if you keep on adding more and more, you're just making the structure.
+
+335 "Sana Amir" (2088217088)
+00:53:29.510 --> 00:53:35.130
+Uh, more complicated and the advantages are not.
+
+336 "Sana Amir" (2088217088)
+00:53:35.130 --> 00:53:44.970
+That much, okay, you're increasing the costs, you're increasing, you're making the detailing of the member more complicated and harder to construct.
+
+337 "Sana Amir" (2088217088)
+00:53:44.970 --> 00:53:48.990
+Okay, anyone else Thank you.
+
+338 "Sana Amir" (2088217088)
+00:53:55.740 --> 00:54:12.360
+Anyone else who may have questions so we don't we do have triangles and rectangles and squares also in a structure where members are joined, like, in rectangular square system, but it's not called a trust anymore.
+
+339 "Sana Amir" (2088217088)
+00:54:12.360 --> 00:54:17.580
+Okay, so.
+
+340 "Sana Amir" (2088217088)
+00:54:17.580 --> 00:54:26.700
+This is why we for trusses for slender members we prefer a triangle if you are going to have.
+
+341 "Sana Amir" (2088217088)
+00:54:26.700 --> 00:54:30.060
+Uh, just this the chances of.
+
+342 "Sana Amir" (2088217088)
+00:54:30.060 --> 00:54:33.690
+This displacing are more.
+
+343 "Sana Amir" (2088217088)
+00:54:33.690 --> 00:54:42.540
+So relatively like this, you know, in a trust displacing like, this is it's harder to do that. So, this shape is.
+
+344 "Sana Amir" (2088217088)
+00:54:42.540 --> 00:54:52.020
+Preferred it is more stable. You can't have a rectangle as I've explained before, but we prefer to put a member like this.
+
+345 "Sana Amir" (2088217088)
+00:54:52.020 --> 00:54:56.220
+At least 1 inclined member, or in the other direction.
+
+346 "Sana Amir" (2088217088)
+00:54:56.220 --> 00:55:00.180
+And this is to avoid this sort of a displacement.
+
+347 "Sana Amir" (2088217088)
+00:55:00.180 --> 00:55:13.830
+The shape is more stable. Okay. So if there are no other questions before I start the method of joints, I just want to take let's come back. Uh, it's 10:33:now. Let's come back at 10:40:okay.
+
+348 "Sana Amir" (2088217088)
+00:55:21.150 --> 00:55:30.690
+So, let's come back at 10:40:and. We will continue. Okay so I hope everyone's back.
+
+349 "Sana Amir" (2088217088)
+00:55:30.690 --> 00:55:33.780
+Let's, um, continue.
+
+350 "Sana Amir" (2088217088)
+00:55:37.200 --> 00:55:40.380
+All right, so, um.
+
+351 "Sana Amir" (2088217088)
+00:55:40.380 --> 00:55:45.390
+We're going to be doing methods joins, this is the 1st method of analysis.
+
+352 "Sana Amir" (2088217088)
+00:55:45.390 --> 00:55:52.200
+So, in method of joints, what's happening is, uh, I will just draw a very simple trust.
+
+353 "Sana Amir" (2088217088)
+00:55:52.200 --> 00:55:58.830
+Okay, this is our trust member. These are the joints and here are the supports.
+
+354 "Sana Amir" (2088217088)
+00:55:58.830 --> 00:56:06.000
+And let's just say that we have some loads here so I just put a vertical.
+
+355 "Sana Amir" (2088217088)
+00:56:06.000 --> 00:56:25.200
+Let's make it simple keep it simple. Okay. Now, in method of joints, as the name suggests what we are going to be doing is we are going to be analyzing the joints 1 by 1. okay. The joints are where the forces are meeting with each other. So, we will be analyzing that.
+
+356 "Sana Amir" (2088217088)
+00:56:25.200 --> 00:56:28.560
+Step number 1 is.
+
+357 "Sana Amir" (2088217088)
+00:56:28.560 --> 00:56:32.250
+To find out reactions, just like you do in beans.
+
+358 "Sana Amir" (2088217088)
+00:56:32.250 --> 00:56:41.670
+Okay, that's step number 1. we only find out the reactions. So when you find out the reactions at each.
+
+359 "Sana Amir" (2088217088)
+00:56:41.670 --> 00:56:54.488
+You know, I can, we can draw, of course, you know that at a pen support, you will have to reactions roller support. You are going to have 1 reactions. So what are the equations of equilibrium? We can use.
+
+360 "karam" (2281669376)
+00:56:54.488 --> 00:57:00.764
+Who will tell me to find out reactions effects on the phone.
+
+361 "Sana Amir" (2088217088)
+00:57:00.764 --> 00:57:11.730
+Send someone some of forces on effects. Some of all the forces in the X direction is equal to 0, sum of all the forces and Y, direction equal to 0. okay.
+
+362 "Sana Amir" (2088217088)
+00:57:11.730 --> 00:57:14.875
+That's it. Or there is something we are.
+
+363 "karam" (2281669376)
+00:57:14.875 --> 00:57:19.374
+Something here uh, no.
+
+364 "Sana Amir" (2088217088)
+00:57:19.374 --> 00:57:22.950
+Don't have momentum joints.
+
+365 "Sana Amir" (2088217088)
+00:57:22.950 --> 00:57:29.280
+Okay, but at the moment, I'm not analyzing a joint. I'm analyzing the whole trust.
+
+366 "Sana Amir" (2088217088)
+00:57:29.280 --> 00:57:34.230
+Are all the forces in the trust passing through a common point.
+
+367 "Sana Amir" (2088217088)
+00:57:34.230 --> 00:57:37.260
+No, not really.
+
+368 "Sana Amir" (2088217088)
+00:57:37.260 --> 00:57:41.400
+Right. This is applied force. This is direction.
+
+369 "Sana Amir" (2088217088)
+00:57:41.400 --> 00:57:45.990
+This reaction is going here, these 2 are going here. This is going here.
+
+370 "Sana Amir" (2088217088)
+00:57:45.990 --> 00:57:55.710
+Are all the forces to find out reactions we are looking at all these external forces, right? We look at the applied loads and the support reactions.
+
+371 "Sana Amir" (2088217088)
+00:57:55.710 --> 00:57:58.830
+They are not at a common joint.
+
+372 "Sana Amir" (2088217088)
+00:57:58.830 --> 00:58:02.370
+They are passing through different points.
+
+373 "Sana Amir" (2088217088)
+00:58:02.370 --> 00:58:06.510
+So, my 3rd equation.
+
+374 "Sana Amir" (2088217088)
+00:58:06.510 --> 00:58:12.150
+Will be sick. My M is equal to 0. you understand.
+
+375 "Sana Amir" (2088217088)
+00:58:12.150 --> 00:58:17.160
+For reactions we are looking at the whole truss.
+
+376 "Sana Amir" (2088217088)
+00:58:17.160 --> 00:58:28.320
+Are all the reactions passing through a common point? No. Are the applied loads passing through? I mean, are all the forces what are the forces that are there? 1:2:3 and 4.
+
+377 "Sana Amir" (2088217088)
+00:58:28.320 --> 00:58:36.030
+Are they all at a common point? No that's why you do have Sigma M, is equal to 0. you can use this equation.
+
+378 "Sana Amir" (2088217088)
+00:58:36.030 --> 00:58:39.780
+Is that clear? However.
+
+379 "Sana Amir" (2088217088)
+00:58:39.780 --> 00:58:44.250
+Let's say we want to analyze this joint only.
+
+380 "Sana Amir" (2088217088)
+00:58:44.250 --> 00:58:48.720
+Okay, so if I, if I, if I analyze this 1.
+
+381 "Sana Amir" (2088217088)
+00:58:48.720 --> 00:58:52.710
+Let me draw a free body diagram and you will see what I mean.
+
+382 "Sana Amir" (2088217088)
+00:58:52.710 --> 00:59:08.100
+So, add this joint only so, uh, when we do a free by diagram, you know that we will cut, we will cut this member. We will cut this member. We will remove the support. So this joint, let's call it joint a, I'm going to draw X and Y, axis XXX. Oh, sorry.
+
+383 "Sana Amir" (2088217088)
+00:59:08.100 --> 00:59:16.530
+Sorry about that. Okay so here is our x axis.
+
+384 "Sana Amir" (2088217088)
+00:59:16.530 --> 00:59:36.180
+Here is a Y, axis. Okay this upward reaction you know, this 1 um, let me show this reaction here is in the upper direction. I can draw it like this, this reaction. This is a horizontal reaction. Let's draw it like this. Let me call this vertical reaction at a support. We a.
+
+385 "Sana Amir" (2088217088)
+00:59:36.180 --> 00:59:39.840
+Uh, horizontal reaction at the airport.
+
+386 "Sana Amir" (2088217088)
+00:59:39.840 --> 00:59:47.370
+These are the 2 reactions what other forces are on the joint, a, we have this member and this member.
+
+387 "Sana Amir" (2088217088)
+00:59:47.370 --> 00:59:56.550
+Right. Let's say this angle is theater so we have this member force. This is less a member 1, this is number 2 number 3. so we have.
+
+388 "Sana Amir" (2088217088)
+00:59:56.550 --> 01:00:03.030
+And then we have F2, also F2, let me assume it is in this direction. F2.
+
+389 "Sana Amir" (2088217088)
+01:00:03.030 --> 01:00:07.410
+Acting away from the joint enough to.
+
+390 "Sana Amir" (2088217088)
+01:00:07.410 --> 01:00:12.540
+This is at the now, add the joint E.
+
+391 "Sana Amir" (2088217088)
+01:00:12.540 --> 01:00:16.890
+Are all the forces passing through a common point?
+
+392 "Sana Amir" (2088217088)
+01:00:16.890 --> 01:00:27.630
+Yes, now, when I analyzing this joint, I can only use Sigma is equal to 0, and signifies equal to 0 Sigma.
+
+393 "Sana Amir" (2088217088)
+01:00:27.630 --> 01:00:33.450
+Does not heal you any result right now?
+
+394 "Sana Amir" (2088217088)
+01:00:33.450 --> 01:00:40.380
+Is this clear why for reactions we have 3 equations that are available? Because.
+
+395 "Sana Amir" (2088217088)
+01:00:40.380 --> 01:00:57.030
+Or the reactions we are looking at structure as a whole, and the applied loads, the 1, this vertical force in black and these 2 reactions they are not passing through a common point. They're not concurrent. So, Sigma is equal to 0 whenever you have a conference system, you can only use.
+
+396 "Sana Amir" (2088217088)
+01:00:57.030 --> 01:01:16.830
+Force equilibrium equations, but this for this is not a conferences is a Co, plainer is all the forces are in 1 play like, these are 2 D forces, but they are in a plane. But, uh, the problem is that they are not passing through a common point. So you do have moments.
+
+397 "Sana Amir" (2088217088)
+01:01:16.830 --> 01:01:21.810
+Okay.
+
+398 "Sana Amir" (2088217088)
+01:01:21.810 --> 01:01:29.520
+Um, 1 more thing before we actually start the analysis I want to talk about.
+
+399 "Sana Amir" (2088217088)
+01:01:29.520 --> 01:01:35.550
+The trust forces. Okay, so this is my trust.
+
+400 "Sana Amir" (2088217088)
+01:01:35.550 --> 01:01:46.830
+Um, we've said before that trusses can have tension or compression. Let's say tension I'm gonna show as blue. So, let me see, let's assume this is.
+
+401 "Sana Amir" (2088217088)
+01:01:46.830 --> 01:01:51.510
+Tension and compression, I'm going to show in this.
+
+402 "Sana Amir" (2088217088)
+01:01:51.510 --> 01:01:55.560
+Purple or pink color. Okay, this is compression.
+
+403 "Sana Amir" (2088217088)
+01:01:55.560 --> 01:02:02.640
+Let's see, these 2 are compressive assume and this tension when we are drawing free body diagram.
+
+404 "Sana Amir" (2088217088)
+01:02:02.640 --> 01:02:09.870
+Okay, and we are drawing free body diagram. How is a 10 style force shown.
+
+405 "Sana Amir" (2088217088)
+01:02:09.870 --> 01:02:17.430
+Cancel force this is your member. We said this tension will always act away from the member, right?
+
+406 "Sana Amir" (2088217088)
+01:02:17.430 --> 01:02:24.600
+And compression, well, compression will always act towards a member.
+
+407 "Sana Amir" (2088217088)
+01:02:24.600 --> 01:02:35.700
+Right. Okay this is the free body diagram for the member. How about the joint now? If I want to draw a freeway diagram of this join the green joint.
+
+408 "Sana Amir" (2088217088)
+01:02:35.700 --> 01:02:39.930
+Okay, let me draw the X and Y, axis.
+
+409 "Sana Amir" (2088217088)
+01:02:39.930 --> 01:02:49.350
+X and Y, I'm drawing the freeway diagram of the joint, the green join. This is a green joint.
+
+410 "Sana Amir" (2088217088)
+01:02:49.350 --> 01:02:56.910
+This 1, so force, the compression force is acting.
+
+411 "Sana Amir" (2088217088)
+01:02:56.910 --> 01:03:03.180
+What is compressive force? Compressive force always act 2 words the structure, right?
+
+412 "Sana Amir" (2088217088)
+01:03:03.180 --> 01:03:08.490
+So, for the member compressive forces, acting 2 words, the structure, this is a member.
+
+413 "Sana Amir" (2088217088)
+01:03:08.490 --> 01:03:13.710
+February diagram joint, free body diagram. Compressive force should act.
+
+414 "Sana Amir" (2088217088)
+01:03:13.710 --> 01:03:20.790
+To watch the joint if I want to show a compressive force acting towards the joined.
+
+415 "Sana Amir" (2088217088)
+01:03:20.790 --> 01:03:26.160
+This is the compressor force. Okay.
+
+416 "Sana Amir" (2088217088)
+01:03:26.160 --> 01:03:33.420
+Or the green joint, then sale force acting a way from the joint. This is my turn side force.
+
+417 "Sana Amir" (2088217088)
+01:03:33.420 --> 01:03:40.020
+All right, so let's draw free body diagram of this member again.
+
+418 "Sana Amir" (2088217088)
+01:03:40.020 --> 01:03:44.760
+Now, I am going to show a member free boy diagram and the.
+
+419 "Sana Amir" (2088217088)
+01:03:44.760 --> 01:03:48.840
+Your body diagram off the joints as well.
+
+420 "Sana Amir" (2088217088)
+01:03:48.840 --> 01:03:53.760
+Okay, so this is the blue join. Okay. So.
+
+421 "Sana Amir" (2088217088)
+01:03:53.760 --> 01:03:57.720
+Uh, we are going to make cuts, right?
+
+422 "Sana Amir" (2088217088)
+01:03:57.720 --> 01:04:01.920
+We are doing diagrams I'm going to isolate the members from the joints.
+
+423 "Sana Amir" (2088217088)
+01:04:01.920 --> 01:04:06.390
+So, let me call this joint, a joint B and joint C.
+
+424 "Sana Amir" (2088217088)
+01:04:06.390 --> 01:04:13.230
+Joint 8 and join to be is here.
+
+425 "Sana Amir" (2088217088)
+01:04:13.230 --> 01:04:19.350
+Let's see, let's say a join sees here. The member I will just.
+
+426 "Sana Amir" (2088217088)
+01:04:19.350 --> 01:04:22.620
+Draw them in this way, this is the structure.
+
+427 "Sana Amir" (2088217088)
+01:04:26.370 --> 01:04:32.760
+Okay, so the member it is the member.
+
+428 "Sana Amir" (2088217088)
+01:04:32.760 --> 01:04:41.130
+Right. Oh, sorry what I can I use.
+
+429 "Sana Amir" (2088217088)
+01:04:41.130 --> 01:04:48.630
+This is a member. Okay, this is a member that has.
+
+430 "Sana Amir" (2088217088)
+01:04:48.630 --> 01:05:08.520
+And this is the 10 side. Remember okay, these are the members these are the joins and joins and joins, let's look at the forces. How are we going to draw the forces? So, for the member, we said tension member, acting away from the joint, right?
+
+431 "Sana Amir" (2088217088)
+01:05:08.520 --> 01:05:17.040
+Acting away at the join, the same tension force is drawn in this way.
+
+432 "Sana Amir" (2088217088)
+01:05:21.570 --> 01:05:24.840
+Let me just set up this off. It's not confusing.
+
+433 "Sana Amir" (2088217088)
+01:05:24.840 --> 01:05:33.420
+All right, at the joint, the same tension for it's the same member is the same member. Same tension force.
+
+434 "Sana Amir" (2088217088)
+01:05:33.420 --> 01:05:43.950
+Okay, but when you show this from the perspective of the joint, the tension will act away from the joint from the perspective of the member.
+
+435 "Sana Amir" (2088217088)
+01:05:43.950 --> 01:05:47.010
+The tension force will act away from the member.
+
+436 "Sana Amir" (2088217088)
+01:05:47.010 --> 01:05:56.040
+Okay, and of course this has, if you notice this satisfies equilibrium at every point, it satisfies the equilibrium here.
+
+437 "Sana Amir" (2088217088)
+01:05:56.040 --> 01:06:00.270
+Satisfies equilibrium hair, satisfied equilibrium here.
+
+438 "Sana Amir" (2088217088)
+01:06:00.270 --> 01:06:03.660
+Let's look at this member, so compression.
+
+439 "Sana Amir" (2088217088)
+01:06:03.660 --> 01:06:08.640
+Acting towards the member and at the joint.
+
+440 "Sana Amir" (2088217088)
+01:06:08.640 --> 01:06:11.670
+I think towards the joint here.
+
+441 "Sana Amir" (2088217088)
+01:06:11.670 --> 01:06:15.930
+I think towards the joint and then yeah.
+
+442 "Sana Amir" (2088217088)
+01:06:15.930 --> 01:06:34.140
+Acting towards the joint, and then here for the member compression will act in towards a member is the same force. It's not any different force. It's the same 1 force, but it's just a matter of perspective. Are you drawing the freeway diagram of the member?
+
+443 "Sana Amir" (2088217088)
+01:06:34.140 --> 01:06:37.890
+Or are you drawing February diagram of the joint.
+
+444 "Sana Amir" (2088217088)
+01:06:37.890 --> 01:06:44.730
+A completion force will always be acting towards the join towards the member.
+
+445 "Sana Amir" (2088217088)
+01:06:44.730 --> 01:06:52.950
+Okay, and at the force will always be acting away from the member or away from the joint.
+
+446 "Sana Amir" (2088217088)
+01:06:52.950 --> 01:07:05.790
+Is this clear now the best way of studying the method.
+
+447 "Sana Amir" (2088217088)
+01:07:05.790 --> 01:07:10.320
+Is to look at an actual example. Okay.
+
+448 "Sana Amir" (2088217088)
+01:07:10.320 --> 01:07:27.750
+Matthew Jones, why do we need to apply the method of joints while we have 2 methods of analysis? 1 is method of joints 1, method of sections. We are doing analysis because we are interested in finding out the internal forces in the members and also the forces that are coming at the connections.
+
+449 "Sana Amir" (2088217088)
+01:07:27.750 --> 01:07:47.750
+Because we have to ultimately design this member and design the connection also. Okay. Design the joint as well for process. And anyways, the joints are very important. Even when you have a beam and you have a column, the joints are important. It's where you have the supports. It's where 1 member is interacting with the other member.
+
+450 "Sana Amir" (2088217088)
+01:07:47.750 --> 01:07:51.660
+Forces in the members are called internal forces.
+
+451 "Sana Amir" (2088217088)
+01:07:51.660 --> 01:07:58.800
+For external force members, equations of equilibrium can be applied. This is the, um.
+
+452 "Sana Amir" (2088217088)
+01:07:58.800 --> 01:08:18.800
+These are the reactions right to find out reactions. You can apply equilibrium equations and we have 3 equilibrium equations. You can use them to equate the loads with the applied lowers with the support reaction. And you find out the unknown reactions. If applied forces are. Of course, they are known apply loads are not now.
+
+453 "Sana Amir" (2088217088)
+01:08:18.800 --> 01:08:25.260
+System acting at each joint SCO planner and concurrent so at a joint, like, the joint be here.
+
+454 "Sana Amir" (2088217088)
+01:08:25.260 --> 01:08:38.730
+Okay, um, forces a CO planner Co planner means we are saying that we are in X and Y, plane. So if you notice this the to the structure and the structure, all the members are either.
+
+455 "Sana Amir" (2088217088)
+01:08:38.730 --> 01:08:46.500
+In wide direction, or X Y, direction. Okay. Or they are at an angle but the plane is the same. It's in the plane of the screen.
+
+456 "Sana Amir" (2088217088)
+01:08:46.500 --> 01:08:57.450
+Okay, it's not a 3 D structure. All the forces are in the same plane. There is no force that has a component in the direction. Okay.
+
+457 "Sana Amir" (2088217088)
+01:08:57.450 --> 01:09:17.450
+And at a joint, the members are concurrent. So meaning that you only have 2 equations of equilibrium that must be satisfied at a joint for the whole structure. Yes. You have the action here to reactions. Here. You are you even have Sigma. M, but for the joint, the only available equations.
+
+458 "Sana Amir" (2088217088)
+01:09:17.450 --> 01:09:29.700
+Effects and f. Y. all right, so let's look at this.
+
+459 "Sana Amir" (2088217088)
+01:09:29.700 --> 01:09:36.060
+Okay, how to show this so, let's say we have a trust. This trust has 3 members a B.
+
+460 "Sana Amir" (2088217088)
+01:09:36.060 --> 01:09:41.730
+B. C. and easy. Okay. Member AB is 2 meters high.
+
+461 "Sana Amir" (2088217088)
+01:09:41.730 --> 01:09:48.600
+The length is 2 meters member AC, 2 meters again and B. C. you can find out, um, you know.
+
+462 "Sana Amir" (2088217088)
+01:09:48.600 --> 01:09:53.280
+By your squared plus B square Square.
+
+463 "Sana Amir" (2088217088)
+01:09:53.280 --> 01:09:56.790
+Or, if you know, these lands, this angle, you can find out this length.
+
+464 "Sana Amir" (2088217088)
+01:09:56.790 --> 01:10:06.480
+This angle is given us 45 degrees, because, I mean, anyway, you know, that this is equal. This is true. This is too this and this angle has to be 45.
+
+465 "Sana Amir" (2088217088)
+01:10:06.480 --> 01:10:10.950
+Now, let's look at free body diagram of the joint B.
+
+466 "Sana Amir" (2088217088)
+01:10:10.950 --> 01:10:18.270
+Yeah, after joined be here so this would be the joint be to draw the February diagram of a joint like that.
+
+467 "Sana Amir" (2088217088)
+01:10:18.270 --> 01:10:26.130
+Okay, let's say you want to draw a diagram of this joint. So, in order to do that.
+
+468 "Sana Amir" (2088217088)
+01:10:26.130 --> 01:10:31.920
+You have to isolate this from all the connecting members.
+
+469 "Sana Amir" (2088217088)
+01:10:31.920 --> 01:10:37.110
+Okay, so joined to be.
+
+470 "Sana Amir" (2088217088)
+01:10:37.110 --> 01:10:56.910
+Member B a. S cut member BA, when you cut, this is a member BA, we are cutting it. Okay. And then member BC. We're also cutting it. And then this is applied load 500 YouTube when you cut the member. B. A. N. B. C. now, you will, you are you may ask, why are we cutting it? Because we are.
+
+471 "Sana Amir" (2088217088)
+01:10:56.910 --> 01:11:04.110
+For method of joints, we have to isolate the joints. We have to look at the freeway diagrams of the joint.
+
+472 "Sana Amir" (2088217088)
+01:11:04.110 --> 01:11:13.020
+Which means that all the surrounding members will be cut all the connected members or if there are supports, they will be removed and replaced by their member.
+
+473 "" (0)
+01:11:13.000 --> 01:11:20.890
+This so when we can't be a, we can show the member force, we are assuming that this member force is intention.
+
+474 "" (0)
+01:11:20.890 --> 01:11:39.700
+In general, for, for startups, because you are just, um, you don't have a lot of knowledge at this moment about trusses. So it's always a good idea to stick to 1 sign convention. Meaning that you should assume that all the unknown forces are intention.
+
+475 "" (0)
+01:11:39.700 --> 01:11:44.140
+Okay, I saw I saw when I saw when, uh, uh, I still.
+
+476 "" (0)
+01:11:44.140 --> 01:11:49.090
+Go by the same assumption, although with experience, you may observe.
+
+477 "" (0)
+01:11:49.090 --> 01:12:04.570
+You can actually tell just by looking at the trust and how the load is applied, which member is going to be intention. So, my guess is, this is intention. And this is also going to be intention. And this is going to be in compression simply because load is directed in this way.
+
+478 "" (0)
+01:12:04.570 --> 01:12:12.940
+Okay, so we can with experience, we can judge that which member we can sort of give predict.
+
+479 "" (0)
+01:12:12.940 --> 01:12:19.660
+Which member can be intention and which member can be in compression, but if you're not sure you can.
+
+480 "" (0)
+01:12:19.660 --> 01:12:22.840
+Always assume that all the members are intention.
+
+481 "" (0)
+01:12:22.840 --> 01:12:39.070
+Later on, when you get when you solve and you get a negative sign that can show that oh, this member is not intention. Our assumption was wrong. Rather this member is in compression. Okay. But anyway, these, uh, the author of this book is, of course, not, uh.
+
+482 "" (0)
+01:12:39.070 --> 01:12:59.070
+Not new to the analysis, so simply by looking, we can easily predict that this force is intention. So I will show this food when I cut this member when I remove it from the joint, I just replace it by a force like this. Okay. And then the other member, when we remove it, we can just replace it by its force.
+
+483 "" (0)
+01:12:59.070 --> 01:13:08.710
+See, the author knows it is in compression, so we will show it acting towards the joint. However, no harm. If you want to show it, like, attention force.
+
+484 "" (0)
+01:13:08.710 --> 01:13:17.590
+Okay, when you apply equilibrium, you, if the force is actually in compression, you will just get a negative sign and that will correct your direction.
+
+485 "" (0)
+01:13:17.590 --> 01:13:24.340
+Okay, so this is how you cut it and this should be your final free body diagram.
+
+486 "" (0)
+01:13:24.340 --> 01:13:44.340
+Show all the angles, so, once the procedure of other analysis, the 1st step is to find out external reactions at the trust support, then you can draw a free body diagram of at least 1 or 200 forces. Mostly after finding our reaction. We start with a join that.
+
+487 "" (0)
+01:13:44.340 --> 01:13:53.020
+Has a known force. Okay. So this form joint has a load here. So we can start the analysis at the joint be.
+
+488 "" (0)
+01:13:53.020 --> 01:14:01.330
+Uh, at least you need 1 known force, uh, non force can be a reaction also. So you can even start with joint.
+
+489 "" (0)
+01:14:01.330 --> 01:14:11.350
+Join C, we'll have 1 unknown reaction joint, a has 2 known reactions. So, in this example, you can actually start from any of the 2.
+
+490 "" (0)
+01:14:11.350 --> 01:14:16.570
+Determine the correct direction of the member um.
+
+491 "" (0)
+01:14:16.570 --> 01:14:22.720
+If you do not know the correct direction of the member force, it's just assume them as tension.
+
+492 "" (0)
+01:14:22.720 --> 01:14:32.200
+Okay, show them acting away orient the X and Y, axis. You draw your freeway diagram then apply signal effects and Sigma. F. Y again.
+
+493 "" (0)
+01:14:32.200 --> 01:14:38.170
+For joint analysis, Sigma M is not available for reactions. You will have Sigma.
+
+494 "" (0)
+01:14:38.170 --> 01:14:43.630
+I use known, forced to analyze the unknown forces just find out the unknowns from here.
+
+495 "" (0)
+01:14:43.630 --> 01:14:59.320
+Let's look at it at this example again. Um, okay, so, uh, we have this triangle. The trust 2 meters high to meet this angle is 45. this is known here. Um.
+
+496 "" (0)
+01:14:59.320 --> 01:15:05.260
+1st step will be to find out the reaction right? Um.
+
+497 "" (0)
+01:15:05.260 --> 01:15:10.930
+What do you have you have to unknown member forces at the joint.
+
+498 "" (0)
+01:15:10.930 --> 01:15:14.740
+So, now we can start technically.
+
+499 "" (0)
+01:15:14.740 --> 01:15:28.510
+You can start the analysis even with I always encourage students to 1st, find out reactions, but technically you can start the analysis from any joint that has.
+
+500 "" (0)
+01:15:28.510 --> 01:15:38.740
+Again, in a matter of joints, how many equations of equilibrium are there? Sigma effects and Sigma 4 meaning 2 member forces can be unknown.
+
+501 "" (0)
+01:15:38.740 --> 01:15:44.139
+So, you can start from any join that has 2 unknowns.
+
+502 "" (0)
+01:15:44.139 --> 01:15:52.389
+Not more than 2 has has they have to be less than equal to 2, or at least at the minimum.
+
+503 "" (0)
+01:15:52.389 --> 01:15:59.559
+1 known force, so if you have 1 known and 2 unknowns.
+
+504 "" (0)
+01:15:59.559 --> 01:16:06.969
+You can also start directly from those join. It's not necessarily necessary to find out the reactions.
+
+505 "" (0)
+01:16:06.969 --> 01:16:22.809
+This is just like this situation you have a beam. This is a can't deliver beam. It's fixed from 1 end and, uh, there is free from the other end to Josh Air Force and bending moment. You can start your analysis from the right hand side. No need to find out reactions.
+
+506 "" (0)
+01:16:22.809 --> 01:16:25.989
+You can easily do that. Okay.
+
+507 "" (0)
+01:16:25.989 --> 01:16:40.179
+So that's the same case here. You don't need to find out reactions if you have a join that has 1 unknown. Oh, sorry. 1 known and 2 unknowns. If there are 3 nodes, let's say you have a member here. This is the trust.
+
+508 "" (0)
+01:16:40.179 --> 01:16:44.019
+Now, you have another member here now, you can not start from here.
+
+509 "" (0)
+01:16:44.019 --> 01:16:47.289
+Because you have 3 unknowns how many.
+
+510 "" (0)
+01:16:47.289 --> 01:16:51.159
+Forces for equations are available. You have only 2 equations.
+
+511 "" (0)
+01:16:51.159 --> 01:17:00.309
+So, not suitable for analysis. Joint is not suitable for analysis. If you have more than 2 unknowns.
+
+512 "" (0)
+01:17:00.309 --> 01:17:04.779
+That's 1, or if you don't have a load here again, you can not.
+
+513 "" (0)
+01:17:04.779 --> 01:17:09.249
+Analyze this joint. Okay but we do meet.
+
+514 "" (0)
+01:17:09.249 --> 01:17:13.539
+These this condition yeah, this 1.
+
+515 "" (0)
+01:17:13.539 --> 01:17:33.539
+At least 1 known and 2, and we made it a joint B, so they have started the analysis directly from the joint. B. uh, I've already told you how to draw the free body diagram of the joint B, if not, you can just go back here and look at this. It's this diagram. Right? So, we've already seen how to draw the body diagram for the February.
+
+516 "" (0)
+01:17:33.539 --> 01:17:44.919
+Join v500 Newton is applied force. Fda is acting intention. F. E. VSI is in compression. The angle is 45 degrees.
+
+517 "" (0)
+01:17:44.919 --> 01:17:54.039
+Now, we can apply our equilibrium equations. The 1st equation is Sigma. Fx is equal to 0, this 1.
+
+518 "" (0)
+01:17:54.039 --> 01:17:57.429
+2nd equation and signifies equal to 0.
+
+519 "" (0)
+01:17:57.429 --> 01:18:05.619
+So, signal effects is equal to 0. um, let's look at this analysis.
+
+520 "" (0)
+01:18:05.619 --> 01:18:10.749
+500 Newton and the positive x axis direction.
+
+521 "" (0)
+01:18:10.749 --> 01:18:13.989
+Miner this is just rector analysis.
+
+522 "" (0)
+01:18:13.989 --> 01:18:19.149
+Does everyone understand this equation 500 Newton plus .
+
+523 "" (0)
+01:18:19.149 --> 01:18:22.449
+F. D. C. sign of 45.
+
+524 "" (0)
+01:18:22.449 --> 01:18:28.269
+Is equal to 0, so can be 72 7.1.
+
+525 "" (0)
+01:18:28.269 --> 01:18:38.619
+Does everyone understand this equation 500?
+
+526 "" (0)
+01:18:38.619 --> 01:18:48.189
+Is going in that direction, right? It's awkward child. I can just show it here. This angle is 45.
+
+527 "" (0)
+01:18:48.189 --> 01:18:52.089
+And is here this is f.
+
+528 "" (0)
+01:18:52.089 --> 01:18:55.449
+B, a, this is.
+
+529 "" (0)
+01:18:55.449 --> 01:18:58.719
+Okay, so +500.
+
+530 "" (0)
+01:18:58.719 --> 01:19:03.039
+Minus f, BC sign off 45.
+
+531 "" (0)
+01:19:03.039 --> 01:19:09.099
+So you can, because this is 45, you can actually use cause of 45 also. So this is 45.
+
+532 "" (0)
+01:19:09.099 --> 01:19:13.149
+This angle is 45 up to you, we can remove this from here.
+
+533 "" (0)
+01:19:13.149 --> 01:19:16.569
+Up to you, even cause a 45 will yield the same result.
+
+534 "" (0)
+01:19:16.569 --> 01:19:24.939
+Is that clear Sigma is equal to 0 vector analysis now .
+
+535 "" (0)
+01:19:24.939 --> 01:19:32.379
+Because FBA is acting downwards plus FBC SBC is upwards this component vertical.
+
+536 "" (0)
+01:19:32.379 --> 01:19:37.179
+Plus SBC calls or 45 we found out f. B. C.
+
+537 "" (0)
+01:19:37.179 --> 01:19:47.799
+Is positive 70 7.1Newton's, which means that the assumption that NBC is in compression is correct.
+
+538 "" (0)
+01:19:47.799 --> 01:20:01.509
+Okay, FBA is coming out to be positive. It is tension. We assume that is intention, right? And you are getting a positive answers. Every time you make an assumption whether the forces compressive.
+
+539 "" (0)
+01:20:01.509 --> 01:20:11.289
+Or then side, you get positive results. Your answer is correct now, here's the thing. Let's say I don't know that compressive.
+
+540 "" (0)
+01:20:11.289 --> 01:20:16.779
+Okay, so we are going to then show the arrowhead here.
+
+541 "" (0)
+01:20:16.779 --> 01:20:23.769
+What will be the difference in the equation? Well, differences that you are going to have a plus sign here.
+
+542 "" (0)
+01:20:23.769 --> 01:20:28.419
+Right and you're also going to have a negative sign here.
+
+543 "" (0)
+01:20:28.419 --> 01:20:33.999
+Right. So when you do that, you will find out that you have a negative answer here.
+
+544 "" (0)
+01:20:33.999 --> 01:20:40.719
+So that means that zoom direction is incorrect and you can write that.
+
+545 "" (0)
+01:20:40.719 --> 01:20:48.399
+Because you assume it is attention, you got a negative answer, so you're gonna write that. This is actually in compression.
+
+546 "" (0)
+01:20:48.399 --> 01:20:57.159
+Okay, so -707 then you can put minus hair -70 7-minus plus. So, ultimately, this.
+
+547 "" (0)
+01:20:57.159 --> 01:21:00.789
+Would still be the same because this assumption is correct.
+
+548 "" (0)
+01:21:00.789 --> 01:21:08.559
+Okay, all right. Um, please take 5 minutes and try to solve this joint.
+
+549 "" (0)
+01:21:08.559 --> 01:21:14.409
+Okay, um, joint be after joint B you can also do joint. See.
+
+550 "" (0)
+01:21:14.409 --> 01:21:19.629
+We can do joint. See also so Pre, white diagram of the joint. See.
+
+551 "" (0)
+01:21:19.629 --> 01:21:25.029
+Now, look, let's look at the join, so you are going to have a reaction here.
+
+552 "" (0)
+01:21:25.029 --> 01:21:40.299
+Okay, so you're going to have a force here and a force like this because we already know FBC is negative and we, you know, the magnitude embassies here, this is your free body diagram.
+
+553 "" (0)
+01:21:40.299 --> 01:21:57.999
+For the joint seat. Okay, this was a 7:00:to 7.1because we know from here compression 707 so compression, which you show it as a compression put 72 7 FCS assumed to be canceled. So this is your analysis and for joint a, again.
+
+554 "" (0)
+01:21:57.999 --> 01:22:11.199
+This is your free body diagram? How is it a freeway diagram look at the joint a, your vertical reaction, your horizontal reaction, your force and your force f.
+
+555 "" (0)
+01:22:11.199 --> 01:22:18.429
+Alright, so you do that and you can just can find out your reactions from the diagram.
+
+556 "" (0)
+01:22:18.429 --> 01:22:37.905
+Is this clear so who's going to the.
+
+557 "karam" (2281669376)
+01:22:37.905 --> 01:22:39.366
+Is this.
+
+558 "Yamile Romero" (2016431616)
+01:22:39.366 --> 01:22:43.302
+Yes, yes. Okay.
+
+559 "Sana Amir" (2088217088)
+01:22:43.302 --> 01:22:49.329
+Yeah, it is clear miss Thank you. Okay. Okay. Um.
+
+560 "Sana Amir" (2088217088)
+01:22:49.329 --> 01:23:05.259
+Yeah, this is like a very simple example, the simplest that we have of how to use the macro join. So now basically, in method of joints, this is your result.
+
+561 "Sana Amir" (2088217088)
+01:23:05.259 --> 01:23:11.559
+Okay, I'm going to please don't be overwhelmed by this. This is just free body diagram of the trust. So this is our trust.
+
+562 "Sana Amir" (2088217088)
+01:23:11.559 --> 01:23:21.759
+Here these are the joints, so I'm just going to draw the joins a bit far like this and.
+
+563 "Sana Amir" (2088217088)
+01:23:21.759 --> 01:23:27.309
+Compression, so we know that sorry member D, season compression. So.
+
+564 "Sana Amir" (2088217088)
+01:23:27.309 --> 01:23:32.079
+This is a member. Okay. And for the.
+
+565 "Sana Amir" (2088217088)
+01:23:32.079 --> 01:23:36.939
+This is your member so compression.
+
+566 "Sana Amir" (2088217088)
+01:23:36.939 --> 01:23:40.539
+Would be this like this and then.
+
+567 "Sana Amir" (2088217088)
+01:23:40.539 --> 01:23:46.689
+Pension, okay how are we going to show the tension forces? Tension.
+
+568 "Sana Amir" (2088217088)
+01:23:46.689 --> 01:23:54.309
+Tension tension for the joints this visa for the joints for the member. Tension would be like this.
+
+569 "Sana Amir" (2088217088)
+01:23:54.309 --> 01:24:00.729
+Anyway, this is a better drawing I want you to look at this. So let's look at the joint be.
+
+570 "Sana Amir" (2088217088)
+01:24:00.729 --> 01:24:05.199
+This is the applied force 570 7.
+
+571 "Sana Amir" (2088217088)
+01:24:05.199 --> 01:24:11.829
+Compression acting towards member AV, the forces, uh, 500 Newton. So acting away.
+
+572 "Sana Amir" (2088217088)
+01:24:11.829 --> 01:24:18.069
+Tension acting away from the member, so this is a member free body diagram.
+
+573 "Sana Amir" (2088217088)
+01:24:18.069 --> 01:24:25.569
+Yeah, these blue lines, these are the members so look how the forces are attention forces acting away.
+
+574 "Sana Amir" (2088217088)
+01:24:25.569 --> 01:24:29.439
+But the same tension force at the joint.
+
+575 "Sana Amir" (2088217088)
+01:24:29.439 --> 01:24:41.379
+It's also shown like, this acting away compression for the member acting towards, at the joint compression. This both are compression at the join. The compression is acting towards.
+
+576 "Sana Amir" (2088217088)
+01:24:41.379 --> 01:24:45.129
+This is compression.
+
+577 "Sana Amir" (2088217088)
+01:24:45.129 --> 01:24:50.079
+So you have to present, you must present your final result in this way.
+
+578 "Sana Amir" (2088217088)
+01:24:50.079 --> 01:24:54.969
+To draw diagram of the trust and show your forces like this.
+
+579 "Sana Amir" (2088217088)
+01:24:54.969 --> 01:25:02.469
+Understood, um.
+
+580 "Sana Amir" (2088217088)
+01:25:06.339 --> 01:25:13.329
+Okay, we do have an example here. Method of sections we are going to do next time. I'm not going to do a matter of sections now.
+
+581 "Sana Amir" (2088217088)
+01:25:13.329 --> 01:25:34.769
+0 force member, so we will do another example if we have time for method of joints and then this week in the tutorials, you are just going to have more revision of bending moments and sheer force diagrams. But next week in the tutorial, you will do the method of joints examples or and.
+
+582 "Sana Amir" (2088217088)
+01:25:34.769 --> 01:25:44.829
+Maybe method of sections also now, 0 force members a method of joint is simplified using 0 force members. 0 force members is supports with no loading.
+
+583 "Sana Amir" (2088217088)
+01:25:44.829 --> 01:25:48.939
+Okay, so sometimes we.
+
+584 "Sana Amir" (2088217088)
+01:25:48.939 --> 01:25:57.939
+Add members that do not have any force. Okay. Now you can say that why would we add extra members?
+
+585 "Sana Amir" (2088217088)
+01:25:57.939 --> 01:26:10.539
+When they are not contributing to any, they are not carrying any forces. Okay. They do not have any agile force. They don't have any tension. They don't have any compression. They are just there.
+
+586 "Sana Amir" (2088217088)
+01:26:10.539 --> 01:26:26.049
+The reason we provide, um, 0, force members is for stability reasons or sometimes the length of the members is, for example, length of this member from 1 joint the 2nd joint is too long and this will deflect.
+
+587 "Sana Amir" (2088217088)
+01:26:26.049 --> 01:26:46.049
+And there is own weight remember we ignore the self bit of the members, right? Because a member will deflect it will bend under its own weight. And when the length is too long, the section is small. The member is very long. So, it is going to sag here. So what we do is we provide some support in terms of a 0 force members.
+
+588 "Sana Amir" (2088217088)
+01:26:46.049 --> 01:26:54.519
+Force member is just for stability and reducing the reflection of the member itself, and they do not carry any loads. All right.
+
+589 "Sana Amir" (2088217088)
+01:26:54.519 --> 01:27:03.819
+Sometimes force members are also provided in roof structures. Okay. Um, or, uh.
+
+590 "Sana Amir" (2088217088)
+01:27:03.819 --> 01:27:08.679
+In cases where, for example, this would be as a 0 force member.
+
+591 "Sana Amir" (2088217088)
+01:27:08.679 --> 01:27:18.669
+And this is a force member so, some so, what is this, why is this member a 0 force member? If you look if you don't have this.
+
+592 "Sana Amir" (2088217088)
+01:27:18.669 --> 01:27:24.009
+If you don't have this member, the member, then you don't have the joint also right?
+
+593 "Sana Amir" (2088217088)
+01:27:24.009 --> 01:27:32.529
+So, the member is, if the length is very long, so it's going to deflect like this. So addition of this member connection of this member.
+
+594 "Sana Amir" (2088217088)
+01:27:32.529 --> 01:27:36.219
+Is going to introduce a joint at G.
+
+595 "Sana Amir" (2088217088)
+01:27:36.219 --> 01:27:46.239
+All right, and when it adds a joint g, then the length of HF member gets divided into 2 parts a G and G, and you have.
+
+596 "Sana Amir" (2088217088)
+01:27:46.239 --> 01:27:56.499
+The problem of deflection is not there. Similarly here we have a member is a 0 force member D. F. if we don't have this member, the length of CE is too long.
+
+597 "Sana Amir" (2088217088)
+01:27:56.499 --> 01:28:04.239
+Right it's a lot of it's a big length so this will to provide the stability of this triangle. We can add.
+
+598 "Sana Amir" (2088217088)
+01:28:04.239 --> 01:28:07.839
+A 0 force member here, this member does not.
+
+599 "Sana Amir" (2088217088)
+01:28:07.839 --> 01:28:11.379
+Um, contribute to any force.
+
+600 "Sana Amir" (2088217088)
+01:28:11.379 --> 01:28:15.789
+All it does is for stability reasons we provided.
+
+601 "Sana Amir" (2088217088)
+01:28:15.789 --> 01:28:23.619
+1 of the reasons sometimes is, let's say, you have loading coming, you have a roof structure, right? So when you have a building.
+
+602 "Sana Amir" (2088217088)
+01:28:23.619 --> 01:28:41.949
+This is your building and this is your trust that's there. Okay. So when you have that sometime you have went from 1 side, sometimes you have been from the other side. So, this wind is going when this wind produces, um, it is coming from the left hand side, the member forces.
+
+603 "Sana Amir" (2088217088)
+01:28:41.949 --> 01:28:58.029
+There will be some member forces on this, on the left hand side of the trust. And then there will be some on the right hand side when the wind switches direction. The member forces will just be reverse. So there will be stress reversal. The member forces that were here are now going to be.
+
+604 "Sana Amir" (2088217088)
+01:28:58.029 --> 01:29:18.029
+Coming on the right hand side and the right hand side will be on the left hand side. So, because the trust is symmetrical switching off the loads is also going to cause stress reversal. So, sometimes we provide these member forces these 0 members, because when wind is coming from this side, maybe the.
+
+605 "Sana Amir" (2088217088)
+01:29:18.029 --> 01:29:25.959
+Force here is not the member here is not needed. There is no for sale, but when the wind is coming from this side.
+
+606 "Sana Amir" (2088217088)
+01:29:25.959 --> 01:29:30.519
+Maybe now you need this member, for example, look at and.
+
+607 "Sana Amir" (2088217088)
+01:29:30.519 --> 01:29:41.439
+Okay, if you look, they are the same, it's a symmetrical trust, but the loading is not symmetrical. So when 2 key Newton's is applied at this joint, this member will have a force.
+
+608 "Sana Amir" (2088217088)
+01:29:41.439 --> 01:30:01.439
+This will be 0, but if 2 killer Newton's comes to this joint, it is reversed. Then this member will have a force and this will be 0 So for stress reversal cases, when we are expecting the force to keep on changing its direction. And when load is a good example, then for then.
+
+609 "Sana Amir" (2088217088)
+01:30:01.439 --> 01:30:04.569
+Well, that's on the right hand side. Maybe.
+
+610 "Sana Amir" (2088217088)
+01:30:04.569 --> 01:30:10.239
+When to is here, this will have a force Def will not have any force.
+
+611 "Sana Amir" (2088217088)
+01:30:10.239 --> 01:30:14.529
+So, if it, if it doesn't have any 4th, let's say, we don't provide it.
+
+612 "Sana Amir" (2088217088)
+01:30:14.529 --> 01:30:26.979
+Okay, but what, if change his direction and now you need a member here for stability to carry some load. Now, BH will not have any force but the EFL start have any force.
+
+613 "Sana Amir" (2088217088)
+01:30:26.979 --> 01:30:47.679
+Okay, so 0 force member methro joints we can apply to find out which members are 0 force members. Okay 00:4:members are members that are only there for stability and for supporting the surrounding member, they do not have any loading in general.
+
+614 "Sana Amir" (2088217088)
+01:30:47.679 --> 01:30:58.269
+Generally speaking, okay, generally speaking, when you have a 3 members coming at a joint.
+
+615 "Sana Amir" (2088217088)
+01:30:58.269 --> 01:31:04.449
+Okay, and 2 of these members are in 1 straight line.
+
+616 "Sana Amir" (2088217088)
+01:31:04.449 --> 01:31:14.139
+This member force will be 0, because for equilibrium, whatever is the member force in this.
+
+617 "Sana Amir" (2088217088)
+01:31:14.139 --> 01:31:17.649
+Will be satisfied in this this is ex direction, right?
+
+618 "Sana Amir" (2088217088)
+01:31:17.649 --> 01:31:29.709
+So, if you apply signal effects as equal to 0 member, a, will satisfy member. B. so, what's the purpose of this member? Nothing Sigma will show that this member force is.
+
+619 "Sana Amir" (2088217088)
+01:31:29.709 --> 01:31:48.519
+0, okay, so generally speaking, when 3 members form form, a trust joined, the 3rd member is a 0 force member, providing no external force of support when this will not have when this will not be as uniform member. Imagine that you have a force here or another member here.
+
+620 "Sana Amir" (2088217088)
+01:31:48.519 --> 01:31:53.709
+Okay, so then, in this case, you will have a member for sale.
+
+621 "Sana Amir" (2088217088)
+01:31:53.709 --> 01:32:01.209
+Now, let's look at this trust and we will apply method of section.
+
+622 "Sana Amir" (2088217088)
+01:32:01.209 --> 01:32:06.069
+Just drop this off to determine.
+
+623 "Sana Amir" (2088217088)
+01:32:06.069 --> 01:32:15.604
+0 force members. Okay. So, just by looking at this trust, can anyone tell me which members will have 0 forces.
+
+624 "Sana Amir" (2088217088)
+01:32:19.565 --> 01:32:28.569
+Uh, D. S, yes, the has 0 forces why look at.
+
+625 "Sana Amir" (2088217088)
+01:32:28.569 --> 01:32:32.649
+And they are in 1 same straight line, right?
+
+626 "Sana Amir" (2088217088)
+01:32:32.649 --> 01:32:36.969
+So, this member, if the analyze joined D.
+
+627 "Sana Amir" (2088217088)
+01:32:36.969 --> 01:32:40.719
+Cd is equal to D. E. the member force.
+
+628 "Sana Amir" (2088217088)
+01:32:40.719 --> 01:32:43.959
+Okay, you can take access like this. Sorry?
+
+629 "Sana Amir" (2088217088)
+01:32:43.959 --> 01:32:51.279
+When you do the analysis, you can take your ax. Let's say this is access and this is why dash.
+
+630 "Sana Amir" (2088217088)
+01:32:51.279 --> 01:32:55.359
+So, this member will be called to this member of 0.
+
+631 "Sana Amir" (2088217088)
+01:32:55.359 --> 01:32:59.409
+Okay, although it is not clear from the joint f.
+
+632 "Sana Amir" (2088217088)
+01:32:59.409 --> 01:33:04.869
+Right from joint f doesn't look like member. F. D. is 0.
+
+633 "Sana Amir" (2088217088)
+01:33:04.869 --> 01:33:12.069
+But if D f is 0 than ftt is also 0, because remember a member force is only gonna have the same.
+
+634 "Sana Amir" (2088217088)
+01:33:12.069 --> 01:33:16.149
+4th are the joined D and at the joint f is the same member.
+
+635 "Sana Amir" (2088217088)
+01:33:16.149 --> 01:33:25.205
+So if DFS 0 f. D. is also 0. okay. Which other member should have 0 member force.
+
+636 "Sana Amir" (2088217088)
+01:33:29.585 --> 01:33:34.839
+Cg, very good CG.
+
+637 "Sana Amir" (2088217088)
+01:33:34.839 --> 01:33:44.319
+Now, if you look at this joint H. G. N. G. F. they are in the 1 same straight line. So this and there is no external load at the joined D.
+
+638 "Sana Amir" (2088217088)
+01:33:44.319 --> 01:33:51.339
+So this is 0, although if you look from C, you can't immediately tell that this should be 0.
+
+639 "Sana Amir" (2088217088)
+01:33:51.339 --> 01:34:00.099
+Right. Okay so there might be other members here member forces that are 0, but we will do an analysis at history is not very clear.
+
+640 "Sana Amir" (2088217088)
+01:34:00.099 --> 01:34:05.169
+The f0, but is not. 0. Y although B. A.
+
+641 "Sana Amir" (2088217088)
+01:34:05.169 --> 01:34:23.019
+And B, C are in the same straight line, but you do have to kill a Newton in the direction of BH. That's not 0. let's look at the solution join. G. let's look at the analysis. We will start from joint. Gee, I joined g. you have member and this vertical GC.
+
+642 "Sana Amir" (2088217088)
+01:34:23.019 --> 01:34:29.469
+This 1, so this is the free body diagram. Sigma is equal to 0.
+
+643 "Sana Amir" (2088217088)
+01:34:29.469 --> 01:34:37.089
+Prove that f. G. C. is equal to 0. so g. C. is a 0 force member at the joint D.
+
+644 "Sana Amir" (2088217088)
+01:34:37.089 --> 01:34:40.089
+Let's do analysis of the joint D here.
+
+645 "Sana Amir" (2088217088)
+01:34:40.089 --> 01:34:50.079
+Okay join do you have member? D. C. or CD? You can call it the C. D. and D F3 members here. So let's draw them.
+
+646 "Sana Amir" (2088217088)
+01:34:50.079 --> 01:35:01.209
+Like this, uh, you can take, I mean, X and Y, axis doesn't always have to be horizontal and vertical. As long as they are rectangular access. They can be.
+
+647 "Sana Amir" (2088217088)
+01:35:01.209 --> 01:35:11.349
+Any X Y, can be in any direction as long as this angle is 19. so let's draw the free body diagram of this joint joint D.
+
+648 "Sana Amir" (2088217088)
+01:35:11.349 --> 01:35:15.249
+This is a joint D here let's plot.
+
+649 "Sana Amir" (2088217088)
+01:35:15.249 --> 01:35:22.419
+The freeway diagram let's supply. clubroom equation. Sigma affects is equal to 0. fdf is equal to 0.
+
+650 "Sana Amir" (2088217088)
+01:35:22.419 --> 01:35:29.409
+Is that clear? fdf is equal to 0.
+
+651 "Sana Amir" (2088217088)
+01:35:35.559 --> 01:35:42.129
+Okay, now, let's look at the joined f.
+
+652 "Sana Amir" (2088217088)
+01:35:42.129 --> 01:36:02.129
+So, for joint f, uh, where does the joint 1st of all I want to see where it hit a joint. So for joint f. F. G. F. E. and f. D. and f. C. we already said that this is you right? We already said that we will still put it here. This is your free body diagram, and we know that this member is.
+
+653 "Sana Amir" (2088217088)
+01:36:02.129 --> 01:36:09.249
+This member, well, angles are not given here. Geometry is not given. So I'm just going to assume that this angle is.
+
+654 "Sana Amir" (2088217088)
+01:36:09.249 --> 01:36:16.419
+Right this is inclined at an angle theater. So Sigma f Y is seeing my effects will just.
+
+655 "Sana Amir" (2088217088)
+01:36:16.419 --> 01:36:22.989
+Give you an equation f. G. F. and FC Sigma f. Y. will give you f. F. C.
+
+656 "Sana Amir" (2088217088)
+01:36:22.989 --> 01:36:30.279
+Cause of Peter is equal to 0. okay. Now, if Theta is not equal to 90.
+
+657 "Sana Amir" (2088217088)
+01:36:30.279 --> 01:36:36.339
+As long as Theta is when Theta is 90 f. F. C. is going to be here.
+
+658 "Sana Amir" (2088217088)
+01:36:36.339 --> 01:36:41.529
+Right when is 90 that means this angle.
+
+659 "Sana Amir" (2088217088)
+01:36:41.529 --> 01:36:49.599
+If she is here, then it is not equal to 0, but as long as Theta is not 90.
+
+660 "Sana Amir" (2088217088)
+01:36:49.599 --> 01:36:53.709
+This member is also going to be 0.
+
+661 "Sana Amir" (2088217088)
+01:36:53.709 --> 01:37:10.509
+Right. They are 2 conditions for this equation to be satisfied. Either. Fmc is equal to 0 or cause of theaters equal to 0, right? When is cause of theaters equal to 0 When he does equal to 90? So when that is not the case.
+
+662 "Sana Amir" (2088217088)
+01:37:10.509 --> 01:37:16.839
+Then this must be cool to he does not 90. F. see, it must be equal to 0.
+
+663 "Sana Amir" (2088217088)
+01:37:16.839 --> 01:37:21.099
+Let's look at the joint be here. So joint B B. A.
+
+664 "Sana Amir" (2088217088)
+01:37:21.099 --> 01:37:24.789
+And we see 2 killer Newton and B. H.
+
+665 "Sana Amir" (2088217088)
+01:37:24.789 --> 01:37:34.239
+Okay, okay. Yeah, this is our diagram clearly is equal to 2.
+
+666 "Sana Amir" (2088217088)
+01:37:34.239 --> 01:37:40.299
+Right see my effects as equal to 0 We are taking this as the X axis. The Y, axis.
+
+667 "Sana Amir" (2088217088)
+01:37:40.299 --> 01:37:52.689
+Also signifies equal to 0, SBC is equal to FBA, although we will not have any numerical result but we know that is equal to be a, is not equal to 0 rather it is equal to.
+
+668 "Sana Amir" (2088217088)
+01:37:52.689 --> 01:37:59.139
+Look at the joint H, this is a joint H here. So now this was 2.
+
+669 "Sana Amir" (2088217088)
+01:37:59.139 --> 01:38:10.299
+Because this was 0, so this is a chance that this is also 0, because this angle is not 90. so, this is also 0 But here, because this is 2.
+
+670 "Sana Amir" (2088217088)
+01:38:10.299 --> 01:38:15.489
+You will have a value for look at this.
+
+671 "Sana Amir" (2088217088)
+01:38:15.489 --> 01:38:21.549
+This is a non 0 member, because this is to killer Newton. So this must have value.
+
+672 "Sana Amir" (2088217088)
+01:38:21.549 --> 01:38:24.789
+To satisfy Sigma is equal to 0.
+
+673 "Sana Amir" (2088217088)
+01:38:24.789 --> 01:38:32.529
+Okay, is this clear? Yes. Okay.
+
+674 "Sana Amir" (2088217088)
+01:38:32.529 --> 01:38:42.009
+A 5 minute break and I'm not going to start method sections today. Rather we are going to be solving a problem.
+
+675 "Sana Amir" (2088217088)
+01:38:42.009 --> 01:38:45.399
+Problem number 1 for a method of joints.
+
+676 "Sana Amir" (2088217088)
+01:38:45.399 --> 01:38:50.769
+All right, 11:30:please come back and we are going to.
+
+677 "Sana Amir" (2088217088)
+01:38:50.769 --> 01:38:55.359
+Start with the with a problem.
+
+678 "Sana Amir" (2088217088)
+01:39:05.379 --> 01:39:14.409
+Okay, so we are back after the break. Um, so let's look at some of the problems.
+
+679 "Sana Amir" (2088217088)
+01:39:14.409 --> 01:39:23.529
+Okay, so.
+
+680 "Sana Amir" (2088217088)
+01:39:23.529 --> 01:39:28.839
+Um, determine the force in each member of the trust.
+
+681 "Sana Amir" (2088217088)
+01:39:28.839 --> 01:39:43.809
+And state, if the members are intention, or completion set, Theta is equal to 0 degrees. Now, when we say that we have to find out member in each force of the trust. Well, of course, you can use method of joins, uh, for this.
+
+682 "Sana Amir" (2088217088)
+01:39:43.809 --> 01:39:57.339
+Um, you can also use method of sections, but next week, when we will do the matter of sections, I will explain to you, why sometimes method of joints is easier for analysis and why sometimes matter of section of.
+
+683 "Sana Amir" (2088217088)
+01:39:57.339 --> 01:40:02.049
+Is easier matter of joints is generally used when the problem.
+
+684 "Sana Amir" (2088217088)
+01:40:02.049 --> 01:40:07.599
+Requires that find out the member forces in all the members of the trust okay.
+
+685 "Sana Amir" (2088217088)
+01:40:07.599 --> 01:40:24.099
+Method of sections allows you to find out member forces in particular members, for example, if the problem was find out the force and member dB and DC only or member dB or a B only okay without.
+
+686 "Sana Amir" (2088217088)
+01:40:24.099 --> 01:40:35.109
+Needing to find out in all the trusses when you have to find a member forces in specific members only then method of section is preferred. Okay.
+
+687 "Sana Amir" (2088217088)
+01:40:35.109 --> 01:40:51.249
+So, let us look at this dress this trust has 1:2:3. 4:5:members. Um, there is a force of 3 at the joint D. there is a force of 4 killer Newton, vertical fours at the joint B.
+
+688 "Sana Amir" (2088217088)
+01:40:51.249 --> 01:41:11.249
+Height of the trust is 1.5meters AB, is 2 meters and BCS also 2 meters. Okay. We can draw the free body diagram of the trust. The February diagram is going to look like here when we draw the body diagram. This is 0. so this is roller support. Okay, you're going to have a reaction here.
+
+689 "Sana Amir" (2088217088)
+01:41:11.249 --> 01:41:17.079
+Going to have vertical horizontal reaction here. Okay, so let's show the diagram.
+
+690 "Sana Amir" (2088217088)
+01:41:17.079 --> 01:41:20.379
+Like this so a X.
+
+691 "Sana Amir" (2088217088)
+01:41:20.379 --> 01:41:33.489
+Sorry, this is a Y, and this is E, X direction direction of the reaction, adjust assumption you are free to assume them in whatever directions you want you can do it like this you can do it like this.
+
+692 "Sana Amir" (2088217088)
+01:41:33.489 --> 01:41:46.779
+When you actually solve them and let's say, comes out to be negative, that means direction is opposite. Maybe it's in this direction. But if you get a positive answer, that means the direction is correct.
+
+693 "Sana Amir" (2088217088)
+01:41:46.779 --> 01:41:50.017
+Okay, um, this is the.
+
+694 "karam" (2281669376)
+01:41:50.017 --> 01:41:55.577
+A vertical reaction at the joint C and yes, please.
+
+695 "Sana Amir" (2088217088)
+01:41:55.577 --> 01:41:58.719
+Uh, uh, excuse me for the reaction force at point C.
+
+696 "karam" (2281669376)
+01:41:58.719 --> 01:42:00.360
+Be perpendicular to the surface.
+
+697 "Sana Amir" (2088217088)
+01:42:00.360 --> 01:42:11.589
+It is for 0. Oh, okay. Oh, okay. Sorry. Sorry no, no, no you're right. You're right. So, um.
+
+698 "Sana Amir" (2088217088)
+01:42:11.589 --> 01:42:16.699
+Let me just drop this. Okay so, Tina, actually, 0 means that's.
+
+699 "karam" (2281669376)
+01:42:16.699 --> 01:42:18.459
+What isn't this direction? This is.
+
+700 "Sana Amir" (2088217088)
+01:42:18.459 --> 01:42:26.229
+This has to be in this way. Okay. Oh, no, this is this.
+
+701 "Sana Amir" (2088217088)
+01:42:26.229 --> 01:42:39.319
+No horizontal. Sorry this is the base yeah. Okay. So it becomes okay just so that, you know, if Theta is not 0, you will have your.
+
+702 "karam" (2281669376)
+01:42:39.319 --> 01:42:42.614
+Reaction let's say, theorize some value.
+
+703 "Sana Amir" (2088217088)
+01:42:42.614 --> 01:42:53.859
+The reaction will be like this. Yeah. Yeah. Yeah. Yeah. And the only difference will be that now, this is going to have 2 components horizontal.
+
+704 "Sana Amir" (2088217088)
+01:42:53.859 --> 01:42:57.759
+Component and vertical component. Okay.
+
+705 "Sana Amir" (2088217088)
+01:42:57.759 --> 01:43:03.489
+That that's what it will be the force will make to.
+
+706 "Sana Amir" (2088217088)
+01:43:03.489 --> 01:43:09.729
+And you can, as you can still analyze it, though, let's say it is here. You can take moment here.
+
+707 "Sana Amir" (2088217088)
+01:43:09.729 --> 01:43:17.199
+Okay, and you can use my effects and Sigma. Y, and you can.
+
+708 "Sana Amir" (2088217088)
+01:43:17.199 --> 01:43:27.039
+Um, if you take the moment here, and you can also take moment here, but then you just need to find out this.
+
+709 "Sana Amir" (2088217088)
+01:43:27.039 --> 01:43:32.289
+This distance, so you can take the moment, a particular distance like this.
+
+710 "Sana Amir" (2088217088)
+01:43:32.289 --> 01:43:41.769
+A little bit of mathematics is involved here, but you should be able to still solve it. Okay. I'll tell you how see, this is a line of action of the force. This 1.
+
+711 "Sana Amir" (2088217088)
+01:43:41.769 --> 01:43:53.259
+Okay, so you can this length you can determine this length you can also determine because this angle, you know, and this length you can determine as well. Okay. This angle is 90 degrees.
+
+712 "Sana Amir" (2088217088)
+01:43:53.259 --> 01:43:58.479
+This length is known, so this moment arm is known. So if you can take moment here.
+
+713 "Sana Amir" (2088217088)
+01:43:58.479 --> 01:44:05.034
+Okay, you can easily find out this member force and the rest. You have Sigma.
+
+714 "karam" (2281669376)
+01:44:05.034 --> 01:44:05.959
+Why you should be.
+
+715 "Sana Amir" (2088217088)
+01:44:05.959 --> 01:44:21.879
+To find out X and Y, all right we know that when you have 4 unknowns, you have 3 questions. So equilibrium, it becomes a bit of a problem to find out the unknowns. But in this case, because moment you can take.
+
+716 "Sana Amir" (2088217088)
+01:44:21.879 --> 01:44:28.918
+It will require a little bit of work to find out this length, but 1, you know, this whole moment arm you can find out this.
+
+717 "karam" (2281669376)
+01:44:28.918 --> 01:44:33.380
+Member force if you take moment at this point. All right.
+
+718 "Sana Amir" (2088217088)
+01:44:33.380 --> 01:44:40.599
+Clear yes. Any questions.
+
+719 "Sana Amir" (2088217088)
+01:44:40.599 --> 01:44:55.779
+Okay, so we have this, um, let us 1st, find out the reactions. Okay so Sigma m a is equal to 0. you can take moment at this point.
+
+720 "Sana Amir" (2088217088)
+01:44:55.779 --> 01:45:00.369
+Okay, like this seek my main is equal to 0. um.
+
+721 "Sana Amir" (2088217088)
+01:45:00.369 --> 01:45:07.539
+Let's take the moment arm, so, and see times for, we are going to take counterclockwise as positive.
+
+722 "Sana Amir" (2088217088)
+01:45:07.539 --> 01:45:11.499
+So MC times 4? 2+2.
+
+723 "Sana Amir" (2088217088)
+01:45:11.499 --> 01:45:16.869
+Right. -4 times 2 because this is clockwise.
+
+724 "Sana Amir" (2088217088)
+01:45:16.869 --> 01:45:22.599
+This forces counter clockwise and see this clockwise and 3 is also.
+
+725 "Sana Amir" (2088217088)
+01:45:22.599 --> 01:45:27.309
+Clockwise so -3 times 1.5that's the momentum from a.
+
+726 "Sana Amir" (2088217088)
+01:45:27.309 --> 01:45:31.200
+So, and she is coming out to be 3.125is.
+
+727 "karam" (2281669376)
+01:45:31.200 --> 01:45:42.489
+Clear, um, uh, can you please repeat like that? 1 for uh, yeah, 3 key donated.
+
+728 "karam" (2281669376)
+01:45:42.489 --> 01:45:51.909
+Yes, so 3 grenadian right? So moment arm, it's been momentum is 3 times 1.5from a.
+
+729 "karam" (2281669376)
+01:45:51.909 --> 01:45:55.329
+This is the direction of the moment, huh? About 8.
+
+730 "karam" (2281669376)
+01:45:55.329 --> 01:45:59.439
+This is clockwise. -3 times. 1.5.
+
+731 "karam" (2281669376)
+01:45:59.439 --> 01:46:03.669
+1.5is appendicular distance between the point is.
+
+732 "karam" (2281669376)
+01:46:03.669 --> 01:46:07.509
+And 3 good Newton, right?
+
+733 "karam" (2281669376)
+01:46:07.509 --> 01:46:10.719
+Okay all right.
+
+734 "karam" (2281669376)
+01:46:10.719 --> 01:46:19.809
+All right, so that's from here. You can find out and see, then Sigma, FX is equal to 0. so.
+
+735 "karam" (2281669376)
+01:46:19.809 --> 01:46:38.259
++3-8 X8 X is equal to tweak it on your turn. Then Sigma is equal to 0 a Y + and C is equal to 4 and see is known from here. So 0.875.
+
+736 "karam" (2281669376)
+01:46:38.259 --> 01:46:43.659
+Killer Newton got it.
+
+737 "karam" (2281669376)
+01:46:43.659 --> 01:46:53.769
+All right, let's go further. Okay, so this is our trust we are going to be analyzing joined 1st.
+
+738 "karam" (2281669376)
+01:46:53.769 --> 01:47:12.069
+So, joint sees this 1 so MMC is vertically upwards. We know what is and see this member force. Sorry what is this member called? This is called B. so a. B. C. and D. all right.
+
+739 "karam" (2281669376)
+01:47:12.069 --> 01:47:20.319
+This member is called B, this is a.
+
+740 "karam" (2281669376)
+01:47:20.319 --> 01:47:25.899
+And this is okay, so join C.
+
+741 "karam" (2281669376)
+01:47:25.899 --> 01:47:33.819
+So, remember CB and the horizontal direction and see vertically upwards. Cd is assumed to be.
+
+742 "karam" (2281669376)
+01:47:33.819 --> 01:47:38.709
+And compression now, you can ask again I say that.
+
+743 "karam" (2281669376)
+01:47:38.709 --> 01:47:52.149
+Why is CD negative because the writers whoever solve this problem is an expert and can own can tell from the direction the loads that apply that this should be.
+
+744 "karam" (2281669376)
+01:47:52.149 --> 01:48:10.209
+Comprehensive, if you don't know, feel free to put an arrowhead here and show it as an extension, what will happen is when you actually calculate f CD, you will get a negative sign here. So that will show that the zoom direction is incorrect. But then you can correct it.
+
+745 "karam" (2281669376)
+01:48:10.209 --> 01:48:14.139
+Okay. All right so.
+
+746 "karam" (2281669376)
+01:48:14.139 --> 01:48:17.559
+Ftd the equations we will write.
+
+747 "karam" (2281669376)
+01:48:17.559 --> 01:48:32.229
+Uh, as compressive, so 3.1to 5 signifies equal to 0. 3.1to 5-f C. D into 3 over 5. okay. That's the slope.
+
+748 "karam" (2281669376)
+01:48:32.229 --> 01:48:42.039
+Uh, 3, this vertical, because we are going for a vertical component. Right? 3 over 3 is the vertical side of the slope. This is 3.
+
+749 "karam" (2281669376)
+01:48:42.039 --> 01:48:45.669
+3 times 3 divided by 5.
+
+750 "karam" (2281669376)
+01:48:45.669 --> 01:48:48.939
+For the horizontal component, it will be 4 or 5.
+
+751 "karam" (2281669376)
+01:48:48.939 --> 01:48:53.979
+Let's talk about components.
+
+752 "karam" (2281669376)
+01:48:53.979 --> 01:48:59.019
+Okay, so we'll have X and Y, let's see.
+
+753 "karam" (2281669376)
+01:48:59.019 --> 01:49:03.729
+This is the force and let's say.
+
+754 "karam" (2281669376)
+01:49:03.729 --> 01:49:09.909
+This is the vertical. This is a horizontal and this is.
+
+755 "karam" (2281669376)
+01:49:09.909 --> 01:49:19.539
+S, let's say this is detail if this is data. Okay. So if you are going to take FX component.
+
+756 "karam" (2281669376)
+01:49:19.539 --> 01:49:24.700
+Effects is going to be either f, cause of data, right?
+
+757 "karam" (2281669376)
+01:49:24.700 --> 01:49:28.810
+R. F. each. Or s.
+
+758 "karam" (2281669376)
+01:49:28.810 --> 01:49:33.580
+You are going for the X component so each over s.
+
+759 "karam" (2281669376)
+01:49:33.580 --> 01:49:39.970
+Okay, if you're going for the vertical component, then we.
+
+760 "karam" (2281669376)
+01:49:39.970 --> 01:49:42.970
+Oh, s, odd sign of.
+
+761 "karam" (2281669376)
+01:49:42.970 --> 01:49:46.390
+If this is data then sign of data.
+
+762 "karam" (2281669376)
+01:49:46.390 --> 01:49:55.900
+So that's why this is 3 or 5. now, you can say that how did you end up 3 or 5 while vertically? This is 1.5why was a slope now.
+
+763 "karam" (2281669376)
+01:49:55.900 --> 01:50:00.310
+So, what typically is 1.5and horizontally is 2.
+
+764 "karam" (2281669376)
+01:50:00.310 --> 01:50:11.290
+So, you can just double it. This becomes 4. this becomes 3 and we know that this is fine. Why do we double it? Because, uh, this 3:4:5 triangle is very common.
+
+765 "karam" (2281669376)
+01:50:11.290 --> 01:50:29.830
+Okay, we always know if vertical is 3 horizontal is 4 slow will be 5 or if vertical is 4 horizontal is 3 slope will be 5 it's always a 3:4:5 or 4:3:5 triangle just easier to work with but you don't have to you can find out this angle also.
+
+766 "karam" (2281669376)
+01:50:29.830 --> 01:50:34.600
+Ok, you can just find out, let's say, you can find out this angle.
+
+767 "karam" (2281669376)
+01:50:34.600 --> 01:50:38.230
+Then it will be sign of the design component that you can use.
+
+768 "karam" (2281669376)
+01:50:38.230 --> 01:50:47.650
+Or you can find out this angle, then you can use cross component. Either way. You just need to have the vertical component of.
+
+769 "karam" (2281669376)
+01:50:47.650 --> 01:51:01.990
+For so, plus -3 4:5:Y minus because look, it is directed downwards here and sees positive because it is directed upwards. Ftd is downwards. So.
+
+770 "karam" (2281669376)
+01:51:01.990 --> 01:51:05.830
+If CD turns out to be 5.21killer, nutrient.
+
+771 "karam" (2281669376)
+01:51:05.830 --> 01:51:17.260
+Okay. Positive. So assume direction is correct. Okay then we write down segment. Effects is equal to 0. so 5.208and 2:4:or 5.
+
+772 "karam" (2281669376)
+01:51:17.260 --> 01:51:24.790
+Um, so this was fgd's into vertical. Sorry? Horizontal component is 4 or 5.
+
+773 "karam" (2281669376)
+01:51:24.790 --> 01:51:34.690
+Okay, so minus fcb now it's in this direction. So FTD horizontal component is positive is negative.
+
+774 "karam" (2281669376)
+01:51:34.690 --> 01:51:42.550
+Like, this was the negative XX is B, is coming out to be 4.17.
+
+775 "karam" (2281669376)
+01:51:42.550 --> 01:51:51.430
+Tension okay. Here.
+
+776 "karam" (2281669376)
+01:51:51.430 --> 01:52:03.460
+So, joint is done, we found out at CD to be in compressive. 5.21fcb isn't 1 thing let's say you make you analyze it as tension.
+
+777 "karam" (2281669376)
+01:52:03.460 --> 01:52:07.090
+What will happen? You will get a negative sign here, right?
+
+778 "karam" (2281669376)
+01:52:07.090 --> 01:52:11.950
+You will get a negative sign. Now if you write this equation.
+
+779 "karam" (2281669376)
+01:52:11.950 --> 01:52:28.810
+Okay, so if you take it up, so this will also be a negative, right? You will have a negative sign here. So now, when you put FTD value here, it will be minus. F2, 5:00:so - minus will again be .
+
+780 "karam" (2281669376)
+01:52:28.810 --> 01:52:37.360
+So just be careful with the science so joint.
+
+781 "karam" (2281669376)
+01:52:37.360 --> 01:52:43.900
+Uh, now, like a joint, eh, you have 8 X and you have a Y, and we have a D and members.
+
+782 "karam" (2281669376)
+01:52:43.900 --> 01:52:54.610
+Katie and a B, so AVI, they've assumed to be positive and a compress. Sorry and silent is assume to be.
+
+783 "karam" (2281669376)
+01:52:54.610 --> 01:52:58.390
+Um, compress it because it is acting towards the joint.
+
+784 "karam" (2281669376)
+01:52:58.390 --> 01:53:04.750
+Let's take my, why is equal to 0 Sigma bicycle to plus a Y.
+
+785 "karam" (2281669376)
+01:53:04.750 --> 01:53:09.700
+I was 1.875.
+
+786 "karam" (2281669376)
+01:53:09.700 --> 01:53:15.040
+This 1, so plus a, why.
+
+787 "karam" (2281669376)
+01:53:15.040 --> 01:53:20.260
+Minus f. A. D. F. Y. component. So 3 by 5.
+
+788 "karam" (2281669376)
+01:53:20.260 --> 01:53:30.070
+zero's coming out to 1.46you, got a positive answer. That means assumed direction is correct you can solve this.
+
+789 "karam" (2281669376)
+01:53:30.070 --> 01:53:34.720
+Putting an arrow here, assuming it is intention, you will get a negative sign here.
+
+790 "karam" (2281669376)
+01:53:34.720 --> 01:53:38.290
+Okay, effects is equal to 0.
+
+791 "karam" (2281669376)
+01:53:38.290 --> 01:53:43.780
++3 sorry -3+f.
+
+792 "karam" (2281669376)
+01:53:43.780 --> 01:53:46.960
+Minus f84 or 5.
+
+793 "karam" (2281669376)
+01:53:46.960 --> 01:53:50.140
+This 1, F4 or 5.
+
+794 "karam" (2281669376)
+01:53:50.140 --> 01:53:56.860
+So, if AV is coming out to be 4.17kilometer and again positive.
+
+795 "karam" (2281669376)
+01:53:56.860 --> 01:54:08.050
+Any questions any questions.
+
+796 "karam" (2281669376)
+01:54:35.050 --> 01:54:39.010
+None okay.
+
+797 "karam" (2281669376)
+01:54:39.010 --> 01:54:59.010
+So, when generally, when students don't ask questions either, they understand everything or they understand nothing. So, I just hope it's the former, not the latter joint B, let's look at the join me. Okay. Interesting thing is that you don't need to analyze all the joints. Right. Imagine we found out reactions.
+
+798 "karam" (2281669376)
+01:54:59.010 --> 01:55:02.800
+We analyze joint C joint a.
+
+799 "karam" (2281669376)
+01:55:02.800 --> 01:55:10.570
+And if we analyze joins be, we are basically done with all the members you can analyze joined D, but that.
+
+800 "karam" (2281669376)
+01:55:10.570 --> 01:55:17.830
+Is to just to confirm these member forces, you know, you can just verify the equilibrium here.
+
+801 "karam" (2281669376)
+01:55:17.830 --> 01:55:22.870
+Okay, but you don't need to analyze all the joints. Usually the last 1 we don't need to analyze.
+
+802 "karam" (2281669376)
+01:55:22.870 --> 01:55:36.130
+Join B, now we know this we know this we know this, this is applied load so only unknown is and should be equal to 4 clearly. I don't even need to apply equilibrium here. Okay.
+
+803 "karam" (2281669376)
+01:55:36.130 --> 01:55:42.550
+And effects, you can actually just check, we only have 1 unknown left. So this is this.
+
+804 "karam" (2281669376)
+01:55:42.550 --> 01:55:48.130
+Is this clear this problem please let me know if you have any questions.
+
+805 "karam" (2281669376)
+01:55:54.100 --> 01:55:57.940
+Next problem, I want you to try please.
+
+806 "karam" (2281669376)
+01:55:57.940 --> 01:56:11.260
+Okay, so determine the force and each member of the trust and state if the members are intention or compression, you can put as 10 and p2 is equal to 15.
+
+807 "karam" (2281669376)
+01:56:28.450 --> 01:56:33.670
+All right, so the 1st step would be let me just put as reactions here.
+
+808 "karam" (2281669376)
+01:56:33.670 --> 01:56:41.950
+So, you can put these reactions and I'm going to tell you something very interesting. Okay.
+
+809 "karam" (2281669376)
+01:56:41.950 --> 01:56:45.400
+You see, you have 4 forces here, right?
+
+810 "karam" (2281669376)
+01:56:45.400 --> 01:56:48.670
+4, but when you analyze this.
+
+811 "karam" (2281669376)
+01:56:48.670 --> 01:56:53.770
+This reaction is just equal to this member force.
+
+812 "karam" (2281669376)
+01:56:53.770 --> 01:56:59.380
+I'm going to make a statement and let me know if you agree or not.
+
+813 "karam" (2281669376)
+01:56:59.380 --> 01:57:04.360
+If I say that the actual trust is only this part.
+
+814 "karam" (2281669376)
+01:57:04.360 --> 01:57:11.140
+This is a trust and what is this.
+
+815 "karam" (2281669376)
+01:57:11.140 --> 01:57:14.530
+This is actually a link support.
+
+816 "karam" (2281669376)
+01:57:14.530 --> 01:57:20.350
+So, when I draw free body diagram, I can just replace this part by a force.
+
+817 "karam" (2281669376)
+01:57:20.350 --> 01:57:27.250
+I don't even need to find out these 2 reactions and GB is like a reaction like this.
+
+818 "karam" (2281669376)
+01:57:27.250 --> 01:57:32.680
+See, do you have a member here? We don't have a member here.
+
+819 "karam" (2281669376)
+01:57:32.680 --> 01:57:37.210
+Okay, so the green lines is the actual trust.
+
+820 "karam" (2281669376)
+01:57:37.210 --> 01:57:42.250
+This is just a link support if you remember everybody diagrams and.
+
+821 "karam" (2281669376)
+01:57:42.250 --> 01:57:45.670
+You should have done a link support. This is just a link.
+
+822 "karam" (2281669376)
+01:57:45.670 --> 01:57:49.750
+I think you've done the prop a problem, um, like this.
+
+823 "karam" (2281669376)
+01:57:49.750 --> 01:57:53.380
+Somewhere in tutorials or something, so there was this frame.
+
+824 "karam" (2281669376)
+01:57:53.380 --> 01:57:57.880
+Right and this is like this wall and there is a link here.
+
+825 "karam" (2281669376)
+01:57:57.880 --> 01:58:02.380
+And I don't know some forces acting somewhere. So what is this.
+
+826 "karam" (2281669376)
+01:58:02.380 --> 01:58:07.750
+This is a beam horizontal bean right? What is this? This is just a link support like here.
+
+827 "karam" (2281669376)
+01:58:07.750 --> 01:58:17.110
+So, you don't really have 4 reactions here because if you look closely, you trust the triangles are just until here this is your trust.
+
+828 "karam" (2281669376)
+01:58:17.110 --> 01:58:20.680
+The 1 in pink, this is your trust.
+
+829 "karam" (2281669376)
+01:58:20.680 --> 01:58:32.380
+Okay, and it is supported by this reaction f GB or you can assume the other direction and yeah here you have 2 reactions. So the actually.
+
+830 "karam" (2281669376)
+01:58:32.380 --> 01:58:36.550
+This is your trust this.
+
+831 "karam" (2281669376)
+01:58:36.550 --> 01:58:39.670
+In this way. Okay.
+
+832 "karam" (2281669376)
+01:58:39.670 --> 01:58:49.570
+All right, so I want you to analyze this. We have 45. no, actually a bit less, sir, but, uh.
+
+833 "karam" (2281669376)
+01:58:49.570 --> 01:58:58.030
+Around 14 minutes left 30 minutes left so I want you to try this and let me know if you have any questions. Okay.
+
+834 "karam" (2281669376)
+01:58:58.030 --> 01:59:12.640
+This problem how many of you are sitting with your calculators?
+
+835 "karam" (2281669376)
+01:59:19.630 --> 01:59:27.310
+Okay has a calculator Please raise your hands lean a detail has a calculator mask saying. Okay.
+
+836 "karam" (2281669376)
+01:59:27.310 --> 01:59:31.360
+Please, if you do not have a calculator, bring a calculator.
+
+837 "karam" (2281669376)
+01:59:31.360 --> 01:59:36.850
+A 100% you will get a question, or maybe 2 questions from this topic.
+
+838 "karam" (2281669376)
+01:59:36.850 --> 01:59:44.080
+Okay, and it's not really a new topic. If you think about it, what are the concepts? We are applying free body diagrams.
+
+839 "karam" (2281669376)
+01:59:44.080 --> 01:59:51.190
+Equilibrium equations. Have you done them before? Yes, you have done them before internal forces. You have done them before.
+
+840 "karam" (2281669376)
+01:59:51.190 --> 01:59:57.490
+Okay, so is 15 very good. Let me check.
+
+841 "karam" (2281669376)
+01:59:57.490 --> 02:00:01.900
+So, I'm just gonna share my screen again, because some of you might be.
+
+842 "karam" (2281669376)
+02:00:01.900 --> 02:00:12.100
+Using the screen f, you mean the horizontal force.
+
+843 "karam" (2281669376)
+02:00:12.100 --> 02:00:18.580
+What is the FFA X Ray? Y no not really. You have to check again.
+
+844 "karam" (2281669376)
+02:00:18.580 --> 02:00:24.550
+No, sorry P1 and p2. You're talking about P1 and p2. P1 is 10 and p2 is 15.
+
+845 "karam" (2281669376)
+02:00:31.330 --> 02:00:35.170
+Has 2 components so.
+
+846 "karam" (2281669376)
+02:00:55.170 --> 02:01:04.540
+Ok, you have 2 reactions here.
+
+847 "karam" (2281669376)
+02:01:07.810 --> 02:01:13.540
+Like this okay, you can assume whatever direction doesn't matter. And they have assumed fpg like.
+
+848 "karam" (2281669376)
+02:10:05.020 --> 02:10:08.350
+How's it going? Any questions?
+
+849 "karam" (2281669376)
+02:10:20.110 --> 02:10:31.210
+So, the easier would be to start at the joint g.
+
+850 "karam" (2281669376)
+02:10:31.210 --> 02:10:35.500
+The links support yes, because if you look at this is the simplest.
+
+851 "karam" (2281669376)
+02:10:35.500 --> 02:10:41.140
+So you have this link reaction and the member.
+
+852 "karam" (2281669376)
+02:10:41.140 --> 02:10:47.860
+Okay, so FTb you can find out this you can find out so that could be your 1st step.
+
+853 "karam" (2281669376)
+02:10:47.860 --> 02:10:55.900
+Um, after this, can you do joint? We actually, no, you have 3 unknowns here these 3.
+
+854 "karam" (2281669376)
+02:10:55.900 --> 02:11:06.760
+Right. So you can do this. 1st and but here are 3 unknown so we cannot go this. So they have what they have done is.
+
+855 "karam" (2281669376)
+02:11:06.760 --> 02:11:13.930
+Ah, found out reactions instead. Okay. So, after this is known is known.
+
+856 "karam" (2281669376)
+02:11:13.930 --> 02:11:23.080
+Okay or GB is known, you can, you know, that will be equal to is equal to 0.
+
+857 "karam" (2281669376)
+02:11:23.080 --> 02:11:43.080
+Or the reactions, okay, or you can just start with the reactions also. So X is equal to and you can only find out from here. You can do that. So this would be the easier way to do it, or just find out reactions using all the forces to force and 1 moment equations. You will.
+
+858 "karam" (2281669376)
+02:11:43.080 --> 02:11:47.440
+Be 1, of course, of course and 3 unknown forces.
+
+859 "karam" (2281669376)
+02:11:47.440 --> 02:11:53.830
+So, the actual, these 3 are known member GB is known. So then you go for joint team.
+
+860 "karam" (2281669376)
+02:11:53.830 --> 02:12:01.510
+Fx equal to 0 that will give you X is equal to right?
+
+861 "karam" (2281669376)
+02:12:01.510 --> 02:12:05.050
+There is no horizontal reaction or a force.
+
+862 "karam" (2281669376)
+02:12:05.050 --> 02:12:10.510
+It just this, this is confusing. You you can.
+
+863 "karam" (2281669376)
+02:12:10.510 --> 02:12:14.500
+You can just find out you can write it down like this with.
+
+864 "karam" (2281669376)
+02:12:14.500 --> 02:12:17.800
+So, let's do the Sigma is equal to 0.
+
+865 "karam" (2281669376)
+02:12:17.800 --> 02:12:22.840
+Which is that, uh, is equal to.
+
+866 "karam" (2281669376)
+02:12:22.840 --> 02:12:27.100
+P1+P 2 right? So you can find this out.
+
+867 "karam" (2281669376)
+02:12:27.100 --> 02:12:31.240
+The thing is at this joint, I've sold you before.
+
+868 "karam" (2281669376)
+02:12:31.240 --> 02:12:34.570
+At this point, okay, you have a.
+
+869 "karam" (2281669376)
+02:12:34.570 --> 02:12:41.080
+Let's say at the support, you have 2 reactions right? So this is g X and this is g. Y.
+
+870 "karam" (2281669376)
+02:12:41.080 --> 02:12:47.710
+If you analyze this, which we talked about.
+
+871 "karam" (2281669376)
+02:12:47.710 --> 02:12:56.620
+No, they don't have to be in the same line. We are finding out, we are analyzing the structure as a whole. Like you find out reactions. The actions are never in the same line.
+
+872 "karam" (2281669376)
+02:12:56.620 --> 02:12:59.620
+That's why you were able to seek my M.
+
+873 "karam" (2281669376)
+02:12:59.620 --> 02:13:02.950
+If you look at join g, G0 simply.
+
+874 "karam" (2281669376)
+02:13:02.950 --> 02:13:06.970
+You've done member forces, right? 0 members. So.
+
+875 "karam" (2281669376)
+02:13:06.970 --> 02:13:11.470
+A 0, it will also tell you that GB is equal to.
+
+876 "karam" (2281669376)
+02:13:11.470 --> 02:13:18.280
+Gb is equal to right?
+
+877 "karam" (2281669376)
+02:13:18.280 --> 02:13:22.630
+It's, it's clear about that. Now, this is X.
+
+878 "karam" (2281669376)
+02:13:22.630 --> 02:13:28.240
+Take my effects is equal to 0. yeah. Now we are here.
+
+879 "karam" (2281669376)
+02:13:28.240 --> 02:13:34.030
+Sigma effect is equal to 0, so is equal to X.
+
+880 "karam" (2281669376)
+02:13:34.030 --> 02:13:39.010
+We know that yeah.
+
+881 "karam" (2281669376)
+02:13:47.710 --> 02:13:56.830
+Okay, these are the equations then if you want, you can just take the moment here. Sigma M equal to 0.
+
+882 "karam" (2281669376)
+02:13:56.830 --> 02:14:01.450
+And find out. Okay, so times 4.
+
+883 "karam" (2281669376)
+02:14:01.450 --> 02:14:05.740
+Is equal to 10 times 2.
+
+884 "karam" (2281669376)
+02:14:05.740 --> 02:14:18.610
+Last 15 times 6, so from here, you can find out is equal to 27.5from this equation from the moment equation. Take moment.
+
+885 "karam" (2281669376)
+02:14:18.610 --> 02:14:24.130
+Find out then we know from is equal to.
+
+886 "karam" (2281669376)
+02:14:24.130 --> 02:14:30.340
+And if I also, we can easily find out, got it.
+
+887 "karam" (2281669376)
+02:14:38.350 --> 02:14:42.880
+F. E. C. is equal to P2.
+
+888 "karam" (2281669376)
+02:14:42.880 --> 02:14:47.950
+Yes, it is because this.
+
+889 "karam" (2281669376)
+02:14:47.950 --> 02:14:52.810
+This is equal to this, so this is equal to this.
+
+890 "karam" (2281669376)
+02:14:52.810 --> 02:15:12.810
+That's correct, but I suggest please, so this is a solution. Okay you can just look at the solution here. 1st, step is to far, you can find our reactions, or you can start from here. This joint will be equal to GB, but it doesn't.
+
+891 "karam" (2281669376)
+02:15:12.810 --> 02:15:20.050
+Yield any results better to start with the reactions. Okay. Sigma M is equal to 0. we take, em, a here.
+
+892 "karam" (2281669376)
+02:15:20.050 --> 02:15:26.680
+I just joined is equal to 0.
+
+893 "karam" (2281669376)
+02:15:26.680 --> 02:15:33.880
+July 0, we know that. Okay. That's why you, why is not appearing in the reaction equations.
+
+894 "karam" (2281669376)
+02:15:33.880 --> 02:15:49.030
+The times for are passing through a so moment is 0 P1 times 2-P 1 times 2-B 2 times. 6:2:is 27.5.
+
+895 "karam" (2281669376)
+02:15:49.030 --> 02:15:54.970
+So this is 27.5this must be also equal to 27.5X.
+
+896 "karam" (2281669376)
+02:15:54.970 --> 02:15:59.920
+Is equal to 0. X is equal to 27.5.
+
+897 "karam" (2281669376)
+02:15:59.920 --> 02:16:09.610
+Signifies equal to 0 a was 25. okay. Why is 10+15? So reactions are known once reactions are known you can now join.
+
+898 "karam" (2281669376)
+02:16:09.610 --> 02:16:19.690
+You know, go with any joint join g joint. A should yield you. Oh, sorry.
+
+899 "karam" (2281669376)
+02:16:19.690 --> 02:16:32.500
+Joint a joint g, we'll give you GP if you haven't already found it out joint, a analyze a B and a, this, these 2 will be known, then you can.
+
+900 "karam" (2281669376)
+02:16:32.500 --> 02:16:37.390
+If you look at this joint, you know, this 1.
+
+901 "karam" (2281669376)
+02:16:37.390 --> 02:16:41.200
+At this join, there is no external force here.
+
+902 "karam" (2281669376)
+02:16:41.200 --> 02:16:47.470
+Okay, you can go for join, be the unknowns you have to announce this and this here.
+
+903 "karam" (2281669376)
+02:16:47.470 --> 02:17:05.860
+You can come to join f, only unknowns at this, and this you can come to here. Only unknown is this and this and then we have this number. Okay. So if we look at joint D the last 1.
+
+904 "karam" (2281669376)
+02:17:05.860 --> 02:17:13.810
+K. F. D. C. is turning out to be 0 as easy. So we have quite a lot of 0 force members here.
+
+905 "karam" (2281669376)
+02:17:20.350 --> 02:17:30.700
+Uh, I'm sorry, I actually don't understand this, so it's better to start equating to some of all the moon forces. Well, to find out reactions, you have to do that, right?
+
+906 "karam" (2281669376)
+02:17:30.700 --> 02:17:35.110
+You have to do that how do you find our reactions in a beam?
+
+907 "karam" (2281669376)
+02:17:35.110 --> 02:17:38.380
+How do you do that? Tell me this is your beam.
+
+908 "karam" (2281669376)
+02:17:38.380 --> 02:17:42.280
+Okay, this is the load. This is a joint a.
+
+909 "karam" (2281669376)
+02:17:42.280 --> 02:17:50.080
+This is a joint B and, uh, okay. How do you find out reactions?
+
+910 "karam" (2281669376)
+02:17:50.080 --> 02:17:56.440
+You write Sigma effects, equal to 0. you right? Sigma wise equal to 0.
+
+911 "karam" (2281669376)
+02:17:56.440 --> 02:17:59.890
+And then you take a moment, right? You can take a moment at AMD.
+
+912 "karam" (2281669376)
+02:17:59.890 --> 02:18:04.060
+So, trust is not any different. It's not any different.
+
+913 "karam" (2281669376)
+02:18:04.060 --> 02:18:08.500
+Yes, preferably, I mean, you don't have to always, but.
+
+914 "karam" (2281669376)
+02:18:08.500 --> 02:18:25.750
+Most likely it will be, it's always a good idea to start with the reactions. I only said that sometimes you don't need to find out reactions. 1st, like, in the 1st example, we did, because you had a joint in which you have only 2 unknowns and 1 known force here. You don't have.
+
+915 "karam" (2281669376)
+02:18:25.750 --> 02:18:29.860
+Join D has 2 unknowns. Okay but there is no known force.
+
+916 "karam" (2281669376)
+02:18:29.860 --> 02:18:33.190
+Right. So similarly.
+
+917 "karam" (2281669376)
+02:18:33.190 --> 02:18:40.450
+And we actually found out that what is here.
+
+918 "karam" (2281669376)
+02:18:40.450 --> 02:18:47.620
+So, if he sees 15, we knew that, but f. F and D. C.
+
+919 "karam" (2281669376)
+02:18:47.620 --> 02:18:52.480
+These 2 are actually 0, why? Because there is.
+
+920 "karam" (2281669376)
+02:18:52.480 --> 02:18:58.750
+No force here at this joint 2 members are attached to it. What are they going to do? They are not supporting any load.
+
+921 "karam" (2281669376)
+02:18:58.750 --> 02:19:16.840
+There are 0, here you can in that sense, you can start from these 2 as well. But this will only come with a little bit of expertise, you know, this idea that to start without finding out reaction only comes when you're a little bit of expertise. I can.
+
+922 "karam" (2281669376)
+02:19:16.840 --> 02:19:34.540
+I can start from this joint, knowing that known forces. 0, this is 0, this is, you know, when these 2 are 0, I can easily analyze joint. E. but this is 0, this is 0 P2 is equal to this 1. and so I, we can start the analysis from the site, but my suggestion would be for beginners.
+
+923 "karam" (2281669376)
+02:19:34.540 --> 02:19:38.920
+We go for the reactions. Okay so go for the reactions.
+
+924 "karam" (2281669376)
+02:19:38.920 --> 02:19:54.640
+And this 1 immediately by observation, you can say that this is 0, because these 2 are in the same straight line. 3rd member is 0. so you are left with 3 reactions these 3 you can find out by 2 equations of equilibrium.
+
+925 "karam" (2281669376)
+02:19:54.640 --> 02:20:03.970
+Significant Sigma fly and 1 equation of equilibrium Sigma M. A. so take moment at as equal to 0 You can also take momentarily equal to 0.
+
+926 "karam" (2281669376)
+02:20:03.970 --> 02:20:09.490
+Find out, 1st, if you take moment at a, you can find out 1st.
+
+927 "karam" (2281669376)
+02:20:09.490 --> 02:20:17.800
+So that doesn't matter. And then you just continue your analysis going by joint by joint, make sure that.
+
+928 "karam" (2281669376)
+02:20:17.800 --> 02:20:23.440
+Every time you analyze a joint, you have only 2 as 2 forces should be unknown.
+
+929 "karam" (2281669376)
+02:20:23.440 --> 02:20:31.540
+Kay, not more than 2 joint analysis, because at a joint.
+
+930 "karam" (2281669376)
+02:20:31.540 --> 02:20:40.510
+All the forces are passing through 1 common point. So you only have 2 equations of equilibrium, but reactions.
+
+931 "karam" (2281669376)
+02:20:40.510 --> 02:20:46.450
+Forces are not in 1 common point, right? They are in different directions. So you do have a moment here.
+
+932 "karam" (2281669376)
+02:20:50.380 --> 02:20:55.150
+All right. Okay. Um, so.
+
+933 "karam" (2281669376)
+02:20:55.150 --> 02:21:06.010
+Do you have any more questions? Okay.
+
+934 "karam" (2281669376)
+02:21:06.010 --> 02:21:13.900
+If you don't have any more questions we are going, I'm going to stop the class now. Okay. Next time. Um.
+
+935 "karam" (2281669376)
+02:21:13.900 --> 02:21:33.900
+When we come to the class, when you come to the glass, please go over the method of joints and we are also going to do method of sections as well. Okay. And, uh, we will do matter of section and then we will solve more problems on method of section. I will actually take 1 problem and I will solve it by method of joints on the.
+
+936 "karam" (2281669376)
+02:21:33.900 --> 02:21:42.160
+Or on the screen, and then I will also solve it by method of sections. So we are going to do more problems, make sure that you do not skip.
+
+937 "karam" (2281669376)
+02:21:42.160 --> 02:21:53.830
+Any lectures please. Okay, because tutorials are only 1 hour you are doing very limited problems and tutorials. Most of the understanding for the scores is going to come from the lectures.
+
+938 "karam" (2281669376)
+02:21:53.830 --> 02:22:03.820
+All right, unfortunately, we did not have a face to face class, but good thing is the next time we are going to be doing the same topic, and we will do.
+
+939 "karam" (2281669376)
+02:22:03.820 --> 02:22:06.910
+Another problem on method of joints as well.
+
+940 "karam" (2281669376)
+02:22:06.910 --> 02:22:12.820
+Okay or maybe we have 3 hours, so we can really do a lot of problems for a matter for this topic.
+
+941 "karam" (2281669376)
+02:22:12.820 --> 02:22:19.750
+Okay, thank you so much for joining. And I'll see you next week in.
+
+942 "karam" (2281669376)
+02:22:19.750 --> 02:22:26.452
+Bye bye. Bye. Bye.
