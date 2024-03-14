@@ -1,0 +1,753 @@
+WEBVTT
+
+1 "" (0)
+00:00:00.000 --> 00:00:02.880
+Oh.
+
+2 "Sana Amir" (1471704832)
+00:00:02.880 --> 00:00:08.100
+Hello.
+
+3 "Sana Amir" (1471704832)
+00:00:08.100 --> 00:00:13.169
+Okay.
+
+4 "Sana Amir" (1471704832)
+00:00:13.169 --> 00:00:21.630
+Okay, welcome everyone. This is week 9 of the semester.
+
+5 "Sana Amir" (1471704832)
+00:00:21.630 --> 00:00:26.820
+And as I explained to you that I won't be able to do a live class.
+
+6 "Sana Amir" (1471704832)
+00:00:26.820 --> 00:00:32.820
+Um, on campus, so therefore, therefore I'm recording this lecture.
+
+7 "Sana Amir" (1471704832)
+00:00:32.820 --> 00:00:37.410
+We already had a little bit of introduction to the topic.
+
+8 "Sana Amir" (1471704832)
+00:00:37.410 --> 00:00:44.190
+In the beginning of this class that was held online and, uh, now I am going to.
+
+9 "Sana Amir" (1471704832)
+00:00:44.190 --> 00:00:49.740
+Refer to this lecture, this is on Central doesn't want to finish your problems.
+
+10 "Sana Amir" (1471704832)
+00:00:49.740 --> 00:00:58.170
+We've already covered the critical part of centers among the financial last week. Today. We are just going to go over some more problems.
+
+11 "Sana Amir" (1471704832)
+00:00:58.170 --> 00:01:05.100
+And hopefully this will be a good practice session for you and most of the problems.
+
+12 "Sana Amir" (1471704832)
+00:01:05.100 --> 00:01:10.950
+I believe little bit of a calculation work for you to do, for example, how to.
+
+13 "Sana Amir" (1471704832)
+00:01:10.950 --> 00:01:14.820
+The integration that will not be covered in this lecture.
+
+14 "Sana Amir" (1471704832)
+00:01:14.820 --> 00:01:18.870
+However, what we will cover is basically all the rest of the steps.
+
+15 "Sana Amir" (1471704832)
+00:01:18.870 --> 00:01:23.250
+What you have to do to find our central and what you have to do to find out who to finish here.
+
+16 "Sana Amir" (1471704832)
+00:01:23.250 --> 00:01:29.100
+You will be doing more problems later on in the tutorial also.
+
+17 "Sana Amir" (1471704832)
+00:01:29.100 --> 00:01:32.430
+So, if you look at the central procedure of analysis.
+
+18 "Sana Amir" (1471704832)
+00:01:32.430 --> 00:01:37.590
+For central central gravity of any shape or object, you can determine it by the following steps.
+
+19 "Sana Amir" (1471704832)
+00:01:37.590 --> 00:01:46.920
+The 1st step would be to determine and appropriate coordinate access. This is very important because you are measuring all your moment arms with respect to that access.
+
+20 "Sana Amir" (1471704832)
+00:01:46.920 --> 00:01:50.730
+And you're finding out the centroid with respect to that access.
+
+21 "Sana Amir" (1471704832)
+00:01:50.730 --> 00:01:57.120
+The 2nd would be to choose a differential element for integration. You can take a rectangular strip.
+
+22 "Sana Amir" (1471704832)
+00:01:57.120 --> 00:02:01.980
+You can take it parallel to, um, any of the access or.
+
+23 "Sana Amir" (1471704832)
+00:02:01.980 --> 00:02:12.150
+As I would say, for 20 of the access, uh, we will talk about it a little bit more when we sold for the problem. Sometimes it is more convenient to take this trip.
+
+24 "Sana Amir" (1471704832)
+00:02:12.150 --> 00:02:17.610
+If let's say, you have to find out to take the trip to the.
+
+25 "Sana Amir" (1471704832)
+00:02:17.610 --> 00:02:24.900
+Same goes from the furniture I have to take more of a definition about the X axis, take the ship to the expenses.
+
+26 "Sana Amir" (1471704832)
+00:02:24.900 --> 00:02:29.340
+And other scenarios as we would see in problem number 1.
+
+27 "Sana Amir" (1471704832)
+00:02:29.340 --> 00:02:33.630
+I will give you a tip how to do the, how to take the.
+
+28 "Sana Amir" (1471704832)
+00:02:33.630 --> 00:02:42.240
+The potential element now locate the elements so that it touches any arbitrary point on the curve, such that it defines a boundary.
+
+29 "Sana Amir" (1471704832)
+00:02:42.240 --> 00:02:47.160
+We can then find out the differential area of the rectangle.
+
+30 "Sana Amir" (1471704832)
+00:02:47.160 --> 00:02:51.150
+And we also know where at the center of the rectangle we know that.
+
+31 "Sana Amir" (1471704832)
+00:02:51.150 --> 00:02:54.180
+Said part of the rectangle, you know, the.
+
+32 "Sana Amir" (1471704832)
+00:02:54.180 --> 00:02:57.270
+Is where are they located?
+
+33 "Sana Amir" (1471704832)
+00:02:57.270 --> 00:03:02.700
+And then we integrate this over the entire area and divided by total area.
+
+34 "Sana Amir" (1471704832)
+00:03:02.700 --> 00:03:14.160
+The differential area or integration, uh, limits we have to look at whether your strip is vertical horizontal and take the appropriate limits the boundaries for the.
+
+35 "Sana Amir" (1471704832)
+00:03:14.160 --> 00:03:21.360
+Um, for the integration, there will be 2 extreme locations. Okay.
+
+36 "Sana Amir" (1471704832)
+00:03:21.360 --> 00:03:34.740
+Now, 1 thing I missed here that you have to integrate in terms of the same variable as the differential thickness of the element. Okay. Now we will apply these steps on this example and hopefully it will be more clear to, you.
+
+37 "Sana Amir" (1471704832)
+00:03:34.740 --> 00:03:38.160
+So, let us take a look at this example on 1.
+
+38 "Sana Amir" (1471704832)
+00:03:38.160 --> 00:03:46.050
+The example, states that you have to look at the centroid of this shape, figure the shaded area.
+
+39 "Sana Amir" (1471704832)
+00:03:46.050 --> 00:03:50.010
+You have to find out the accent and you have to find out though.
+
+40 "Sana Amir" (1471704832)
+00:03:50.010 --> 00:03:57.330
+Why centroid okay now, what we can do is we can take a strip here.
+
+41 "Sana Amir" (1471704832)
+00:03:57.330 --> 00:04:01.620
+So, I'm going to take, uh, a strip that this is.
+
+42 "Sana Amir" (1471704832)
+00:04:01.620 --> 00:04:05.190
+My point is where you any back here.
+
+43 "Sana Amir" (1471704832)
+00:04:05.190 --> 00:04:11.460
+I'm going to take a straight, let's say.
+
+44 "Sana Amir" (1471704832)
+00:04:11.460 --> 00:04:16.200
+We're going to take a strip that is parallel to, let's say the X axis. Okay.
+
+45 "Sana Amir" (1471704832)
+00:04:16.200 --> 00:04:23.250
+Now, for this trip to the X axis, what is the thickness? The thickness of the strip is.
+
+46 "Sana Amir" (1471704832)
+00:04:23.250 --> 00:04:28.769
+The Y, right this sickness.
+
+47 "Sana Amir" (1471704832)
+00:04:28.769 --> 00:04:35.099
+Of the stress that is equal to D. Y, and the length of the script is equal to.
+
+48 "Sana Amir" (1471704832)
+00:04:35.099 --> 00:04:38.399
+X thanks. Okay.
+
+49 "Sana Amir" (1471704832)
+00:04:38.399 --> 00:04:48.479
+So, length of the strip is equal to X significantly to D. D. why? So, the differential area of this trip will be equal to times X. D. Y right?
+
+50 "Sana Amir" (1471704832)
+00:04:48.479 --> 00:04:51.719
+Okay.
+
+51 "Sana Amir" (1471704832)
+00:04:51.719 --> 00:05:01.469
+Equation of the curve the function is given by why is equal to execute. We can write this. Why is equal to execute as X is equal to why it is 2 part 103.
+
+52 "Sana Amir" (1471704832)
+00:05:01.469 --> 00:05:10.769
+Now, the center, the Centers for this bar and bar, so centroid with respect to.
+
+53 "Sana Amir" (1471704832)
+00:05:10.769 --> 00:05:14.399
+The Y, axis is the.
+
+54 "Sana Amir" (1471704832)
+00:05:14.399 --> 00:05:19.049
+Is, of course, right this distance from here at this point.
+
+55 "Sana Amir" (1471704832)
+00:05:19.049 --> 00:05:25.259
+With the center of this trip, this is equal to to.
+
+56 "Sana Amir" (1471704832)
+00:05:25.259 --> 00:05:33.599
+Right. Vertically do we know the distance? Yes vertically we know the distance vertically is equal to why curly bar is equal to why?
+
+57 "Sana Amir" (1471704832)
+00:05:33.599 --> 00:05:37.529
+So, now we can find out, um.
+
+58 "Sana Amir" (1471704832)
+00:05:37.529 --> 00:05:43.019
+The export export will be going to times over.
+
+59 "Sana Amir" (1471704832)
+00:05:43.019 --> 00:05:50.099
+Okay, we can put the value of is equal to X Y, you know, that length into height.
+
+60 "Sana Amir" (1471704832)
+00:05:50.099 --> 00:06:04.679
+And we have read it and why is it going to execute in terms of X is equal to why? This number 3 we can, we can put it here. The is equal to x D. Y y1 by 3 times. So we can just put it here.
+
+61 "Sana Amir" (1471704832)
+00:06:04.679 --> 00:06:07.859
+Okay, why, when by 3 times the 1.
+
+62 "Sana Amir" (1471704832)
+00:06:07.859 --> 00:06:12.419
+So, now we can put the value here straight away.
+
+63 "Sana Amir" (1471704832)
+00:06:12.419 --> 00:06:16.559
+Is equal to 2, so we can put it here.
+
+64 "Sana Amir" (1471704832)
+00:06:16.559 --> 00:06:32.309
+All right, this 1, and when you put here, and we put X is equal to y1 by 3 here the 2, we can take it out this common. We can write it over here and then we can just integrate it.
+
+65 "Sana Amir" (1471704832)
+00:06:32.309 --> 00:06:37.709
+To get is equal to, for 10 this, this is equal to 0.4meters.
+
+66 "Sana Amir" (1471704832)
+00:06:37.709 --> 00:06:41.789
+All right, so this is like 1 of the, uh.
+
+67 "Sana Amir" (1471704832)
+00:06:41.789 --> 00:06:46.799
+Experts here for.
+
+68 "Sana Amir" (1471704832)
+00:06:46.799 --> 00:06:50.609
+Um, it's a situation is, uh.
+
+69 "Sana Amir" (1471704832)
+00:06:50.609 --> 00:07:00.209
+The same, you can use the same strip if you want. We can same news. You know, what they have done is that we have, they have actually used the same strip.
+
+70 "Sana Amir" (1471704832)
+00:07:00.209 --> 00:07:13.409
+Why is he going to execute? Can be this equation of the curve it can be written as executed by 1 by 3. why? As I explained the central distance from the center of the step to this is why.
+
+71 "Sana Amir" (1471704832)
+00:07:13.409 --> 00:07:23.399
+It is not X by 2 as before, because expert to the center of the, the strip in the X direction is half the length of the strip right?
+
+72 "Sana Amir" (1471704832)
+00:07:23.399 --> 00:07:26.579
+And the center in the right direction, it's just 1.
+
+73 "Sana Amir" (1471704832)
+00:07:26.579 --> 00:07:29.579
+So, I is equal to why.
+
+74 "Sana Amir" (1471704832)
+00:07:29.579 --> 00:07:34.049
+Similarly, we can find out why bar bar is equal to.
+
+75 "Sana Amir" (1471704832)
+00:07:34.049 --> 00:07:39.449
+Particularly bad times da, da, we can put easily over here. Why is why.
+
+76 "Sana Amir" (1471704832)
+00:07:39.449 --> 00:07:43.859
+So 1st, on the 2nd term again, we have the here.
+
+77 "Sana Amir" (1471704832)
+00:07:43.859 --> 00:07:52.469
+You can integrate it the limits of whether you take the stream we have taken it horizontal limits as, you know, to 1.
+
+78 "Sana Amir" (1471704832)
+00:07:52.469 --> 00:08:01.379
+But if you took this trip as vertical, if you had taken it, the limits would again be from 0 to 1. anyway we have our strip horizontal.
+
+79 "Sana Amir" (1471704832)
+00:08:01.379 --> 00:08:07.199
+This is going to be 0 to 1 so integrating it you will get 0.571.
+
+80 "Sana Amir" (1471704832)
+00:08:07.199 --> 00:08:14.159
+Okay, so that's our question number 1.
+
+81 "Sana Amir" (1471704832)
+00:08:14.159 --> 00:08:32.789
+Question number 2 question number 2 we have to find out if you look, we have this parable again. The version of the line, the curve is given in terms of why why is equal to 1-104 times X Square.
+
+82 "Sana Amir" (1471704832)
+00:08:32.789 --> 00:08:40.229
+Now, we can take, uh, let's say, in this case, what they have done is that they have taken a vertical strip.
+
+83 "Sana Amir" (1471704832)
+00:08:40.229 --> 00:08:46.859
+But this is our vertical strips sorry for the very bad handwriting.
+
+84 "Sana Amir" (1471704832)
+00:08:46.859 --> 00:08:57.569
+Okay, what you can strip the vertical height is equal to why the horizontal is like this distance is the, I'll just show it over here.
+
+85 "Sana Amir" (1471704832)
+00:08:57.569 --> 00:09:01.259
+So, vertical is the why herself in.
+
+86 "Sana Amir" (1471704832)
+00:09:01.259 --> 00:09:05.669
+The limits of this trip is from minus to to cluster.
+
+87 "Sana Amir" (1471704832)
+00:09:05.669 --> 00:09:10.979
+Right. It can move from this point, which is -2.
+
+88 "Sana Amir" (1471704832)
+00:09:10.979 --> 00:09:14.309
+To this point, which is +2. Okay.
+
+89 "Sana Amir" (1471704832)
+00:09:14.309 --> 00:09:19.829
+Um, let us write down the center of the, the, the strip.
+
+90 "Sana Amir" (1471704832)
+00:09:19.829 --> 00:09:25.409
+Um, I'm going to just use another marker.
+
+91 "Sana Amir" (1471704832)
+00:09:25.409 --> 00:09:30.899
+Okay, so this is my right.
+
+92 "Sana Amir" (1471704832)
+00:09:30.899 --> 00:09:36.689
+Okay, the center the center of the strip is some other way here.
+
+93 "Sana Amir" (1471704832)
+00:09:36.689 --> 00:09:41.369
+Okay, you have to find that distance in the X bar and the whiteboard.
+
+94 "Sana Amir" (1471704832)
+00:09:41.369 --> 00:09:48.479
+Um, so as far as why bar is concerned, why bought the verticals centroid for this?
+
+95 "Sana Amir" (1471704832)
+00:09:48.479 --> 00:09:53.729
+So, height is this why? Right? So, the central will be equal to by by 2.
+
+96 "Sana Amir" (1471704832)
+00:09:53.729 --> 00:09:57.509
+And horizontally, it is just equal to X.
+
+97 "Sana Amir" (1471704832)
+00:09:57.509 --> 00:10:00.659
+Okay, so.
+
+98 "Sana Amir" (1471704832)
+00:10:00.659 --> 00:10:08.909
+We will put Y, times D x Y is already given. So why is equal to this value times?
+
+99 "Sana Amir" (1471704832)
+00:10:08.909 --> 00:10:13.379
+We are going to put it in the formula for or.
+
+100 "Sana Amir" (1471704832)
+00:10:13.379 --> 00:10:16.949
+So it is, uh.
+
+101 "Sana Amir" (1471704832)
+00:10:16.949 --> 00:10:20.609
+Uh, times, why times the X.
+
+102 "Sana Amir" (1471704832)
+00:10:20.609 --> 00:10:24.419
+And over, you know, D, this expression here.
+
+103 "Sana Amir" (1471704832)
+00:10:24.419 --> 00:10:44.419
+So, now you have to integrate this integration is can be done from -2, too positive 2 as explained before. Now, what you can do over here is you can open these brackets. Okay. And try to simplify this expression. So, this might this term. And this will term you can just open them.
+
+104 "Sana Amir" (1471704832)
+00:10:44.419 --> 00:10:47.819
+And you will hopefully get this expression of.
+
+105 "Sana Amir" (1471704832)
+00:10:47.819 --> 00:10:55.769
+We can keep in it, keep it out as a common and below also you can integrate the 1st term. Then you can integrate the 2nd term.
+
+106 "Sana Amir" (1471704832)
+00:10:55.769 --> 00:11:02.759
+Up you can integrate the 1st term and the 2nd term and then the 3rd, 1, then you can apply the integration.
+
+107 "Sana Amir" (1471704832)
+00:11:02.759 --> 00:11:19.949
+So, this figure is symmetrical over the Y axis. Right? So would be equal to 0 and the vertical bar it can be calculated from this procedure is equal to 0.4meters.
+
+108 "Sana Amir" (1471704832)
+00:11:19.949 --> 00:11:30.029
+Now, we are going to look at centers of composite bodies. The previously, what we did was centralized by integration method.
+
+109 "Sana Amir" (1471704832)
+00:11:30.029 --> 00:11:41.009
+So, for centroid of composed bodies, uh, the formulas that we use are very similar to the integration, except that instead of integration.
+
+110 "Sana Amir" (1471704832)
+00:11:41.009 --> 00:11:46.169
+Okay, now we have finite shifts so we are just going to use some issues.
+
+111 "Sana Amir" (1471704832)
+00:11:46.169 --> 00:11:49.649
+Okay, so tip 1, is that if.
+
+112 "Sana Amir" (1471704832)
+00:11:49.649 --> 00:11:54.869
+Apart is symmetrical about the X axis. The center of the part lies on the access.
+
+113 "Sana Amir" (1471704832)
+00:11:54.869 --> 00:12:07.499
+On that X axis if the symmetrical axis is the Y, axis, the center of the part can with the Y axis. So if you have an access of symmetry, 1 of the centers is going to be lying over that cemetery.
+
+114 "Sana Amir" (1471704832)
+00:12:07.499 --> 00:12:12.449
+It depends which, which access if you have Y axis then x axis is.
+
+115 "Sana Amir" (1471704832)
+00:12:12.449 --> 00:12:17.459
+0, if the X axis is the symmetric, then it's the Y, axis. That is, you.
+
+116 "Sana Amir" (1471704832)
+00:12:17.459 --> 00:12:24.929
+Why is central to that? 0 tip 2 better to arrange everything in a tabular form?
+
+117 "Sana Amir" (1471704832)
+00:12:24.929 --> 00:12:35.429
+So, in class, we did this L section so in this L section, we have the X Y, and we have the particularly the height is 4 meters horizontally. The height is 3 meters.
+
+118 "Sana Amir" (1471704832)
+00:12:35.429 --> 00:12:43.079
+So, we have point 5 as a thickness of this angle section. We have to look at the center of the cross sectional area.
+
+119 "Sana Amir" (1471704832)
+00:12:43.079 --> 00:12:52.019
+So, centroid X Y, and can be located with the help of this trigger. Now, you may be surprised and why is this, uh, centroid.
+
+120 "Sana Amir" (1471704832)
+00:12:52.019 --> 00:12:57.059
+Lying outside of the other sections. Well, there are many shapes in which.
+
+121 "Sana Amir" (1471704832)
+00:12:57.059 --> 00:13:04.199
+The centroid may not be inside the section. Normally that happens when you don't have.
+
+122 "Sana Amir" (1471704832)
+00:13:04.199 --> 00:13:09.929
+Any access of symmetry you can have 1 axis of symmetry.
+
+123 "Sana Amir" (1471704832)
+00:13:09.929 --> 00:13:13.409
+Okay, so let's say for the channel section.
+
+124 "Sana Amir" (1471704832)
+00:13:13.409 --> 00:13:17.309
+So, you can have 1 of the central.
+
+125 "Sana Amir" (1471704832)
+00:13:17.309 --> 00:13:24.059
+This access and access of symmetry for the C section. So, 1 of the Central is rely on it. But then the other.
+
+126 "Sana Amir" (1471704832)
+00:13:24.059 --> 00:13:32.099
+Central the device Android is 0, uh, it lies on the symmetric x axis, but the X.
+
+127 "Sana Amir" (1471704832)
+00:13:32.099 --> 00:13:39.959
+Okay, the X file is going to have some value, and it may it may be outside of the channel section or the C section.
+
+128 "Sana Amir" (1471704832)
+00:13:39.959 --> 00:13:47.459
+Okay, now, um, let us look at bar.
+
+129 "Sana Amir" (1471704832)
+00:13:47.459 --> 00:13:51.119
+So, we are going to be putting each of these terms.
+
+130 "Sana Amir" (1471704832)
+00:13:51.119 --> 00:13:54.119
+So times area.
+
+131 "Sana Amir" (1471704832)
+00:13:54.119 --> 00:14:00.479
+So, here, we have to angle to we have 1 angle section. We can divide it into.
+
+132 "Sana Amir" (1471704832)
+00:14:00.479 --> 00:14:05.099
+You know, what we can do is that we can divide it into 2 shapes.
+
+133 "Sana Amir" (1471704832)
+00:14:05.099 --> 00:14:09.509
+And let me color 1 of the shapes. So, 1 shape is this 1.
+
+134 "Sana Amir" (1471704832)
+00:14:09.509 --> 00:14:13.229
+Oh, my God. I sorry.
+
+135 "Sana Amir" (1471704832)
+00:14:13.229 --> 00:14:21.299
+This was very bad. Yeah.
+
+136 "Sana Amir" (1471704832)
+00:14:21.299 --> 00:14:26.189
+So, this horizontal is 1 shape and the vertical 1 is the other share. Okay.
+
+137 "Sana Amir" (1471704832)
+00:14:26.189 --> 00:14:31.289
+So, now what we can do here is, we can.
+
+138 "Sana Amir" (1471704832)
+00:14:31.289 --> 00:14:38.339
+Uh, create a table with all the required parameters here. Uh, objective is to find out.
+
+139 "Sana Amir" (1471704832)
+00:14:38.339 --> 00:14:51.629
+Or, and, uh, we can locate the center of the original or the original, the small rectangles individual rectangles. So, X bar for the shape number 1.
+
+140 "Sana Amir" (1471704832)
+00:14:51.629 --> 00:14:54.659
+Uh, my ship number 1 is this vertical 1?
+
+141 "Sana Amir" (1471704832)
+00:14:54.659 --> 00:14:57.929
+Okay, so is.
+
+142 "Sana Amir" (1471704832)
+00:14:57.929 --> 00:15:04.589
+We have mentioned with respect to this Y, axis and this access. Okay these are the different sexes.
+
+143 "Sana Amir" (1471704832)
+00:15:04.589 --> 00:15:08.669
+So, X is 0.25vertically. This is.
+
+144 "Sana Amir" (1471704832)
+00:15:08.669 --> 00:15:13.229
+0, uh, 2 meters. Okay, so point 2:5:and 2.
+
+145 "Sana Amir" (1471704832)
+00:15:13.229 --> 00:15:16.259
+And horizontally, this part.
+
+146 "Sana Amir" (1471704832)
+00:15:16.259 --> 00:15:19.349
+Right this remaining from here until here.
+
+147 "Sana Amir" (1471704832)
+00:15:19.349 --> 00:15:22.409
+This distance is actually.
+
+148 "Sana Amir" (1471704832)
+00:15:22.409 --> 00:15:25.919
+To point, um.
+
+149 "Sana Amir" (1471704832)
+00:15:25.919 --> 00:15:29.849
+You can subtract 3-0.5 so you have 2.5right.
+
+150 "Sana Amir" (1471704832)
+00:15:29.849 --> 00:15:36.869
+So, I have a 2.5+this distance until here is equal to 1.75.
+
+151 "Sana Amir" (1471704832)
+00:15:36.869 --> 00:15:42.089
+2.5so half of this is 1.251.2. 5.
+
+152 "Sana Amir" (1471704832)
+00:15:42.089 --> 00:15:46.379
+0.5that is equal to 175.
+
+153 "Sana Amir" (1471704832)
+00:15:46.379 --> 00:15:54.029
+And what you can need the widest is 0.25okay half of this. So why bot is your point? 2 5.
+
+154 "Sana Amir" (1471704832)
+00:15:54.029 --> 00:16:05.159
+4 times 0.5is equal to 2. that is an area for this s*** the vertical check 4 times 0.5for the horizontal this rectangle multiply. 0.5.
+
+155 "Sana Amir" (1471704832)
+00:16:05.159 --> 00:16:09.149
+2.5times 0.5it is equal to 1.25.
+
+156 "Sana Amir" (1471704832)
+00:16:09.149 --> 00:16:13.649
+Total area is coming out to be 3.25.
+
+157 "Sana Amir" (1471704832)
+00:16:13.649 --> 00:16:16.649
+So really times a.
+
+158 "Sana Amir" (1471704832)
+00:16:16.649 --> 00:16:24.419
+We can find out very easily. Extremely lot of times. 8. 0.25xby 2 is equal to 0.5.
+
+159 "Sana Amir" (1471704832)
+00:16:24.419 --> 00:16:27.539
+Then we are 1.75into 1.25.
+
+160 "Sana Amir" (1471704832)
+00:16:27.539 --> 00:16:32.429
+That's basically 0.25times 2.
+
+161 "Sana Amir" (1471704832)
+00:16:32.429 --> 00:16:35.819
+And then 1.75times 1.5.
+
+162 "Sana Amir" (1471704832)
+00:16:35.819 --> 00:16:39.809
+Similarly, here we can write down 2 times 2.
+
+163 "Sana Amir" (1471704832)
+00:16:39.809 --> 00:16:43.469
+And 0.25times 1.25.
+
+164 "Sana Amir" (1471704832)
+00:16:43.469 --> 00:16:47.909
+So.
+
+165 "Sana Amir" (1471704832)
+00:16:47.909 --> 00:16:52.589
+Is equal to 2.6785now the 2nd 1.
+
+166 "Sana Amir" (1471704832)
+00:16:52.589 --> 00:16:56.489
+Why 1 E1, that's why 2:8:2.
+
+167 "Sana Amir" (1471704832)
+00:16:56.489 --> 00:17:00.479
+Is equal to 4.3125right.
+
+168 "Sana Amir" (1471704832)
+00:17:00.479 --> 00:17:11.369
+So, we will put down this, this 1, the numerator, which we calculate it over here. And the denominator is 3.25the total area. You can find out. Excellent.
+
+169 "Sana Amir" (1471704832)
+00:17:11.369 --> 00:17:16.439
+Similarly, so this 1.
+
+170 "Sana Amir" (1471704832)
+00:17:16.439 --> 00:17:25.349
+4.3125is here and then 3.25that is the total area that is written here. You can find out.
+
+171 "Sana Amir" (1471704832)
+00:17:25.349 --> 00:17:31.379
+Why.
+
+172 "Sana Amir" (1471704832)
+00:17:31.379 --> 00:17:39.449
+All right, so now, let us move forward. We are going to be taking a look, at example, number 4.
+
+173 "Sana Amir" (1471704832)
+00:17:39.449 --> 00:17:49.079
+Now, this is a T section, this, this section, um, we can divide it into you have to find out the central. Sorry? I forgot to mention that.
+
+174 "Sana Amir" (1471704832)
+00:17:49.079 --> 00:17:53.879
+Locate the central X by Y, but we can divide it into 2 parts.
+
+175 "Sana Amir" (1471704832)
+00:17:53.879 --> 00:18:00.299
+Okay, so the 1st part, um, area, if you, if you.
+
+176 "Sana Amir" (1471704832)
+00:18:00.299 --> 00:18:12.269
+Look at this shape, the X axis is at the base and the Y axis is like in the middle here. Okay. So this why access the access of symmetry.
+
+177 "Sana Amir" (1471704832)
+00:18:12.269 --> 00:18:19.289
+So, for both the rectangles as you can see the X Y, is equal to 0, which makes a lot of sense because.
+
+178 "Sana Amir" (1471704832)
+00:18:19.289 --> 00:18:24.299
+Expired 0, because, uh, export is actually lying over this access, right?
+
+179 "Sana Amir" (1471704832)
+00:18:24.299 --> 00:18:27.569
+So, now for this is area 1.
+
+180 "Sana Amir" (1471704832)
+00:18:27.569 --> 00:18:31.319
+Okay, and this is number 2.
+
+181 "Sana Amir" (1471704832)
+00:18:31.319 --> 00:18:40.619
+So, for area 1, the centroid Y, bar is the total height is 300. so the centroid will be 300 divided by 2.
+
+182 "Sana Amir" (1471704832)
+00:18:40.619 --> 00:18:44.069
+150, and for the other shapes.
+
+183 "Sana Amir" (1471704832)
+00:18:44.069 --> 00:18:54.389
+The rectangle horizontal rectangle uh, this height of this rectangle is at 50. so centroid would be in the middle. So 300.
+
+184 "Sana Amir" (1471704832)
+00:18:54.389 --> 00:19:02.369
+25, okay, 325. that is there area both the tangle is 300 by 50.
+
+185 "Sana Amir" (1471704832)
+00:19:02.369 --> 00:19:18.719
+Uh, this is 300. this is 50. this was 300. this is 15. so, 15,000, this is, of course, going to be 0 x0 because expert actually, this is the central going to be. So, export is actually here.
+
+186 "Sana Amir" (1471704832)
+00:19:18.719 --> 00:19:27.449
+Why why we can find out using this formula so 15515945 times 15000.
+
+187 "Sana Amir" (1471704832)
+00:19:27.449 --> 00:19:30.839
+The total is 7. 105,000.
+
+188 "Sana Amir" (1471704832)
+00:19:30.839 --> 00:19:36.839
+Turns out to be 2007.5Million. So this would be the next example.
